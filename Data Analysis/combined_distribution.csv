@@ -1,0 +1,1420 @@
+value,count,percentage,source,column
+USA,3071,33.66955377699814,All,Institution Country
+DEU,1306,14.3186054160728,All,Institution Country
+CAN,839,9.198552790264225,All,Institution Country
+GBR,612,6.709790593136717,All,Institution Country
+EEC,410,4.49512114899682,All,Institution Country
+AAA,358,3.92500822278259,All,Institution Country
+FRA,324,3.552242078719439,All,Institution Country
+AUS,263,2.883455761429667,All,Institution Country
+CHN,159,1.743229909001206,All,Institution Country
+NLD,141,1.545883126850126,All,Institution Country
+CHE,141,1.545883126850126,All,Institution Country
+JPN,129,1.414318605416073,All,Institution Country
+IND,126,1.381427475057559,All,Institution Country
+ESP,124,1.359500054818551,All,Institution Country
+ITA,111,1.216971823264993,All,Institution Country
+AUT,80,0.8770968095603552,All,Institution Country
+POL,79,0.8661330994408507,All,Institution Country
+NOR,72,0.7893871286043196,All,Institution Country
+BEL,67,0.7345685780067975,All,Institution Country
+SWE,67,0.7345685780067975,All,Institution Country
+DNK,43,0.471439535138691,All,Institution Country
+RUS,38,0.4166209845411687,All,Institution Country
+GRC,35,0.3837298541826554,All,Institution Country
+SRB,32,0.3508387238241421,All,Institution Country
+MEX,32,0.3508387238241421,All,Institution Country
+ZAF,31,0.3398750137046376,All,Institution Country
+BRA,30,0.3289113035851332,All,Institution Country
+ARG,29,0.3179475934656288,All,Institution Country
+CZE,24,0.2631290428681066,All,Institution Country
+EST,23,0.2521653327486021,All,Institution Country
+PRT,21,0.2302379125095932,All,Institution Country
+IRL,20,0.2192742023900888,All,Institution Country
+TWN,20,0.2192742023900888,All,Institution Country
+NZL,20,0.2192742023900888,All,Institution Country
+COL,19,0.2083104922705844,All,Institution Country
+FIN,18,0.1973467821510799,All,Institution Country
+HUN,16,0.1754193619120711,All,Institution Country
+KOR,15,0.1644556517925666,All,Institution Country
+ISR,14,0.1534919416730622,All,Institution Country
+LTU,13,0.1425282315535577,All,Institution Country
+SGP,12,0.1315645214340533,All,Institution Country
+CHL,12,0.1315645214340533,All,Institution Country
+HKG,9,0.09867339107553995,All,Institution Country
+TUR,8,0.08770968095603553,All,Institution Country
+KEN,8,0.08770968095603553,All,Institution Country
+SVN,7,0.07674597083653108,All,Institution Country
+ISL,6,0.06578226071702664,All,Institution Country
+ROU,5,0.0548185505975222,All,Institution Country
+PER,5,0.0548185505975222,All,Institution Country
+SVK,4,0.04385484047801776,All,Institution Country
+IDN,4,0.04385484047801776,All,Institution Country
+THA,4,0.04385484047801776,All,Institution Country
+HRV,4,0.04385484047801776,All,Institution Country
+LUX,4,0.04385484047801776,All,Institution Country
+LVA,3,0.03289113035851332,All,Institution Country
+CYP,3,0.03289113035851332,All,Institution Country
+BFA,3,0.03289113035851332,All,Institution Country
+UKR,3,0.03289113035851332,All,Institution Country
+PAK,3,0.03289113035851332,All,Institution Country
+SAU,3,0.03289113035851332,All,Institution Country
+GRL,3,0.03289113035851332,All,Institution Country
+VNM,2,0.02192742023900888,All,Institution Country
+SDN,2,0.02192742023900888,All,Institution Country
+PAN,2,0.02192742023900888,All,Institution Country
+MKD,2,0.02192742023900888,All,Institution Country
+LBN,2,0.02192742023900888,All,Institution Country
+CMR,2,0.02192742023900888,All,Institution Country
+GHA,2,0.02192742023900888,All,Institution Country
+BEN,2,0.02192742023900888,All,Institution Country
+ETH,1,0.01096371011950444,All,Institution Country
+BIH,1,0.01096371011950444,All,Institution Country
+NER,1,0.01096371011950444,All,Institution Country
+ECU,1,0.01096371011950444,All,Institution Country
+IRN,1,0.01096371011950444,All,Institution Country
+NCL,1,0.01096371011950444,All,Institution Country
+FJI,1,0.01096371011950444,All,Institution Country
+CIV,1,0.01096371011950444,All,Institution Country
+KAZ,1,0.01096371011950444,All,Institution Country
+NAM,1,0.01096371011950444,All,Institution Country
+NGA,1,0.01096371011950444,All,Institution Country
+TUN,1,0.01096371011950444,All,Institution Country
+SEN,1,0.01096371011950444,All,Institution Country
+LAO,1,0.01096371011950444,All,Institution Country
+EGY,1,0.01096371011950444,All,Institution Country
+PHL,1,0.01096371011950444,All,Institution Country
+MWI,1,0.01096371011950444,All,Institution Country
+AZE,1,0.01096371011950444,All,Institution Country
+PYF,1,0.01096371011950444,All,Institution Country
+URY,1,0.01096371011950444,All,Institution Country
+eng,3206,69.13952986844943,All,Repository Language
+deu,309,6.663791244339013,All,Repository Language
+fra,291,6.275609230105673,All,Repository Language
+spa,172,3.709294802674143,All,Repository Language
+zho,93,2.005607073538926,All,Repository Language
+por,56,1.207677377614837,All,Repository Language
+jpn,47,1.013586370498167,All,Repository Language
+nld,44,0.9488893681259434,All,Repository Language
+rus,42,0.9057580332111279,All,Repository Language
+pol,41,0.8841923657537202,All,Repository Language
+ita,40,0.8626266982963123,All,Repository Language
+swe,23,0.4960103515203796,All,Repository Language
+fin,18,0.3881820142333405,All,Repository Language
+cat,17,0.3666163467759327,All,Repository Language
+dan,15,0.3234850118611171,All,Repository Language
+ces,14,0.3019193444037093,All,Repository Language
+hun,13,0.2803536769463015,All,Repository Language
+kor,13,0.2803536769463015,All,Repository Language
+srp,13,0.2803536769463015,All,Repository Language
+ell,12,0.2587880094888937,All,Repository Language
+ara,12,0.2587880094888937,All,Repository Language
+nor,11,0.2372223420314858,All,Repository Language
+est,10,0.2156566745740781,All,Repository Language
+lav,9,0.1940910071166703,All,Repository Language
+hin,8,0.1725253396592624,All,Repository Language
+slk,8,0.1725253396592624,All,Repository Language
+ind,8,0.1725253396592624,All,Repository Language
+lit,8,0.1725253396592624,All,Repository Language
+tur,7,0.1509596722018547,All,Repository Language
+ron,7,0.1509596722018547,All,Repository Language
+slv,6,0.1293940047444468,All,Repository Language
+hrv,6,0.1293940047444468,All,Repository Language
+isl,5,0.107828337287039,All,Repository Language
+tha,5,0.107828337287039,All,Repository Language
+eus,4,0.08626266982963122,All,Repository Language
+ukr,4,0.08626266982963122,All,Repository Language
+mlt,3,0.06469700237222342,All,Repository Language
+fas,3,0.06469700237222342,All,Repository Language
+bul,3,0.06469700237222342,All,Repository Language
+vie,3,0.06469700237222342,All,Repository Language
+heb,3,0.06469700237222342,All,Repository Language
+nob,3,0.06469700237222342,All,Repository Language
+gle,2,0.04313133491481561,All,Repository Language
+nno,2,0.04313133491481561,All,Repository Language
+roh,1,0.02156566745740781,All,Repository Language
+srd,1,0.02156566745740781,All,Repository Language
+afr,1,0.02156566745740781,All,Repository Language
+glg,1,0.02156566745740781,All,Repository Language
+kal,1,0.02156566745740781,All,Repository Language
+yor,1,0.02156566745740781,All,Repository Language
+lao,1,0.02156566745740781,All,Repository Language
+tel,1,0.02156566745740781,All,Repository Language
+tam,1,0.02156566745740781,All,Repository Language
+mar,1,0.02156566745740781,All,Repository Language
+mal,1,0.02156566745740781,All,Repository Language
+kan,1,0.02156566745740781,All,Repository Language
+guj,1,0.02156566745740781,All,Repository Language
+ben,1,0.02156566745740781,All,Repository Language
+cym,1,0.02156566745740781,All,Repository Language
+twi,1,0.02156566745740781,All,Repository Language
+sqi,1,0.02156566745740781,All,Repository Language
+zul,1,0.02156566745740781,All,Repository Language
+2 Life Sciences,1887,9.474318421449013,All,Subject
+3 Natural Sciences,1709,8.580609529547623,All,Subject
+1 Humanities and Social Sciences,1295,6.501983230406186,All,Subject
+21 Biology,1034,5.191544911382237,All,Subject
+34 Geosciences (including Geography),912,4.579002861876789,All,Subject
+22 Medicine,763,3.830898227644726,All,Subject
+4 Engineering Sciences,742,3.725460661746247,All,Subject
+201 Basic Biological and Medical Research,578,2.902043480443842,All,Subject
+12 Social and Behavioural Sciences,524,2.630918310990611,All,Subject
+205 Medicine,459,2.304563940352462,All,Subject
+313 Atmospheric Science and Oceanography,459,2.304563940352462,All,Subject
+11 Humanities,372,1.86775116734448,All,Subject
+32 Physics,348,1.747251092031932,All,Subject
+111 Social Sciences,325,1.631771853190742,All,Subject
+315 Geophysics and Geodesy,306,1.536375960234975,All,Subject
+203 Zoology,290,1.456042576693277,All,Subject
+31 Chemistry,267,1.340563337852086,All,Subject
+"204 Microbiology, Virology and Immunology",255,1.280313300195813,All,Subject
+112 Economics,251,1.260229954310388,All,Subject
+202 Plant Sciences,246,1.235125771953607,All,Subject
+20105 General Genetics,245,1.230104935482251,All,Subject
+"23 Agriculture, Forestry, Horticulture and Veterinary Medicine",245,1.230104935482251,All,Subject
+31302 Oceanography,192,0.9640006025003766,All,Subject
+317 Geography,192,0.9640006025003766,All,Subject
+20107 Bioinformatics and Theoretical Biology,188,0.9439172566149521,All,Subject
+311 Astrophysics and Astronomy,185,0.9288547472008836,All,Subject
+318 Water Research,182,0.9137922377868153,All,Subject
+"44 Computer Science, Electrical and System Engineering",179,0.8987297283727469,All,Subject
+"207 Agriculture, Forestry, Horticulture and Veterinary Medicine",162,0.8133755083596927,All,Subject
+"20502 Public Health, Health Services Research, Social Medicine",159,0.7983129989456242,All,Subject
+31301 Atmospheric Science,151,0.7581463071747753,All,Subject
+102 History,128,0.6426670683335843,All,Subject
+104 Linguistics,125,0.6276045589195159,All,Subject
+20503 Human Genetics,124,0.6225837224481598,All,Subject
+206 Neurosciences,119,0.5974795400913793,All,Subject
+"316 Geochemistry, Mineralogy and Crystallography",116,0.5824170306773109,All,Subject
+11102 Empirical Social Research,115,0.5773961942059547,All,Subject
+409 Computer Science,111,0.5573128483205302,All,Subject
+"20306 Animal Genetics, Cell and Developmental Biology",110,0.5522920118491741,All,Subject
+"31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy",109,0.547271175377818,All,Subject
+20103 Cell Biology,102,0.512125320078325,All,Subject
+314 Geology and Palaeontology,102,0.512125320078325,All,Subject
+"20303 Animal Ecology, Biodiversity and Ecosystem Research",95,0.4769794647788321,All,Subject
+"103 Fine Arts, Music, Theatre and Media Studies",85,0.4267711000652709,All,Subject
+20101 Biochemistry,84,0.4217502635939148,All,Subject
+109 Education Sciences,82,0.4117085906512025,All,Subject
+"308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas",79,0.3966460812371341,All,Subject
+20207 Plant Genetics,78,0.391625244765778,All,Subject
+101 Ancient Cultures,78,0.391625244765778,All,Subject
+31501 Geophysics,77,0.3866044082944219,All,Subject
+"20501 Epidemiology, Medical Biometry, Medical Informatics",72,0.3615002259376413,All,Subject
+20202 Plant Ecology and Ecosystem Analysis,71,0.3564793894662851,All,Subject
+11205 Statistics and Econometrics,69,0.3464377165235728,All,Subject
+11104 Political Science,68,0.3414168800522167,All,Subject
+113 Jurisprudence,63,0.3163126976954361,All,Subject
+45 Construction Engineering and Architecture,62,0.3112918612240799,All,Subject
+11202 Economic and Social Policy,60,0.3012501882813677,All,Subject
+110 Psychology,58,0.2912085153386554,All,Subject
+"106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies",57,0.2861876788672993,All,Subject
+"31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management",57,0.2861876788672993,All,Subject
+"309 Particles, Nuclei and Fields",55,0.276146005924587,All,Subject
+43 Materials Science and Engineering,55,0.276146005924587,All,Subject
+33 Mathematics,51,0.2560626600391625,All,Subject
+410 Construction Engineering and Architecture,51,0.2560626600391625,All,Subject
+301 Molecular Chemistry,50,0.2510418235678064,All,Subject
+20104 Structural Biology,48,0.2410001506250941,All,Subject
+"20401 Metabolism, Biochemistry and Genetics of Microorganisms",46,0.2309584776823819,All,Subject
+20701 Soil Sciences,42,0.2108751317969574,All,Subject
+303 Physical and Theoretical Chemistry,39,0.195812622382889,All,Subject
+20704 Ecology of Agricultural Landscapes,37,0.1857709494401767,All,Subject
+105 Literary Studies,35,0.1757292764974645,All,Subject
+406 Materials Science,33,0.1656876035547522,All,Subject
+31101 Astrophysics and Astronomy,33,0.1656876035547522,All,Subject
+31702 Human Geography,31,0.15564593061204,All,Subject
+307 Condensed Matter Physics,31,0.15564593061204,All,Subject
+"40904 Artificial Intelligence, Image and Language Processing",29,0.1456042576693277,All,Subject
+407 Systems Engineering,28,0.1405834211979716,All,Subject
+20710 Basic Forest Research,28,0.1405834211979716,All,Subject
+20404 Virology,28,0.1405834211979716,All,Subject
+20405 Immunology,27,0.1355625847266155,All,Subject
+302 Chemical Solid State and Surface Research,27,0.1355625847266155,All,Subject
+10601 Social and Cultural Anthropology and Ethnology/Folklore,26,0.1305417482552593,All,Subject
+"304 Analytical Chemistry, Method Development (Chemistry)",26,0.1305417482552593,All,Subject
+42 Thermal Engineering/Process Engineering,25,0.1255209117839032,All,Subject
+20509 Pharmacology,25,0.1255209117839032,All,Subject
+10301 Art History,25,0.1255209117839032,All,Subject
+"31601 Geochemistry, Mineralogy and Crystallography",25,0.1255209117839032,All,Subject
+107 Theology,25,0.1255209117839032,All,Subject
+305 Biological Chemistry and Food Chemistry,24,0.1205000753125471,All,Subject
+31701 Physical Geography,24,0.1205000753125471,All,Subject
+10203 Modern and Current History,24,0.1205000753125471,All,Subject
+"20302 Evolution, Anthropology",23,0.1154792388411909,All,Subject
+"30301 Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics",23,0.1154792388411909,All,Subject
+20606 Cognitive Neuroscience and Neuroimaging,22,0.1104584023698348,All,Subject
+10104 Classical Archaeology,22,0.1104584023698348,All,Subject
+"41002 Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning",22,0.1104584023698348,All,Subject
+408 Electrical Engineering,21,0.1054375658984787,All,Subject
+"30801 Optics, Quantum Optics, Atoms, Molecules, Plasmas",21,0.1054375658984787,All,Subject
+20708 Agricultural Economics and Sociology,20,0.1004167294271225,All,Subject
+"20403 Medical Microbiology, Molecular Infection Biology",20,0.1004167294271225,All,Subject
+"41001 Architecture, Building and Construction History, Sustainable Building Technology, Building Design",20,0.1004167294271225,All,Subject
+10302 Musicology,19,0.09539589295576643,All,Subject
+11204 Business Administration,19,0.09539589295576643,All,Subject
+"20514 Hematology, Oncology, Transfusion Medicine",19,0.09539589295576643,All,Subject
+31401 Geology and Palaeontology,19,0.09539589295576643,All,Subject
+108 Philosophy,17,0.08535422001305418,All,Subject
+20532 Biomedical Technology and Medical Physics,17,0.08535422001305418,All,Subject
+11203 Public Finance,17,0.08535422001305418,All,Subject
+41 Mechanical and industrial Engineering,16,0.08033338354169804,All,Subject
+11206 Economic and Social History,16,0.08033338354169804,All,Subject
+11103 Communication Science,16,0.08033338354169804,All,Subject
+20402 Microbial Ecology and Applied Microbiology,16,0.08033338354169804,All,Subject
+20201 Plant Systematics and Evolution,16,0.08033338354169804,All,Subject
+20108 Anatomy,15,0.07531254707034192,All,Subject
+20709 Inventory Control and Use of Forest Resources,14,0.07029171059898578,All,Subject
+20301 Systematics and Morphology,14,0.07029171059898578,All,Subject
+20305 Biochemistry and Animal Physiology,14,0.07029171059898578,All,Subject
+"40704 Traffic and Transport Systems, Logistics",14,0.07029171059898578,All,Subject
+"403 Process Engineering, Technical Chemistry",13,0.06527087412762966,All,Subject
+40902 Software Technology,13,0.06527087412762966,All,Subject
+20102 Biophysics,13,0.06527087412762966,All,Subject
+20504 Physiology,13,0.06527087412762966,All,Subject
+"30901 Particles, Nuclei and Fields",13,0.06527087412762966,All,Subject
+20508 Pharmacy,13,0.06527087412762966,All,Subject
+405 Materials Engineering,12,0.06025003765627353,All,Subject
+20705 Plant Breeding,12,0.06025003765627353,All,Subject
+20530 Radiology and Nuclear Medicine,12,0.06025003765627353,All,Subject
+20510 Toxicology and Occupational Medicine,11,0.05522920118491741,All,Subject
+10204 History of Science,11,0.05522920118491741,All,Subject
+20520 Pediatric and Adolescent Medicine,11,0.05522920118491741,All,Subject
+10201 Medieval History,11,0.05522920118491741,All,Subject
+312 Mathematics,11,0.05522920118491741,All,Subject
+"404 Heat Energy Technology, Thermal Machines, Fluid Mechanics",11,0.05522920118491741,All,Subject
+20702 Plant Cultivation,11,0.05522920118491741,All,Subject
+"10902 Research on Teaching, Learning and Training",11,0.05522920118491741,All,Subject
+10903 Research on Socialization and Educational Institutions and Professions,10,0.05020836471356127,All,Subject
+20205 Plant Biochemistry and Biophysics,10,0.05020836471356127,All,Subject
+"10403 Typology, Non-European Languages, Historical Linguistics",10,0.05020836471356127,All,Subject
+"20604 Systemic Neuroscience, Computational Neuroscience, Behaviour",10,0.05020836471356127,All,Subject
+10605 Religious Studies and Jewish Studies,10,0.05020836471356127,All,Subject
+30102 Organic Molecular Chemistry,10,0.05020836471356127,All,Subject
+"30202 Physical Chemistry of Solids and Surfaces, Material Characterisation",9,0.04518752824220516,All,Subject
+"11301 Legal and Political Philosophy, Legal History, Legal Theory",9,0.04518752824220516,All,Subject
+20713 Basic Veterinary Medical Science,9,0.04518752824220516,All,Subject
+20506 Pathology and Forensic Medicine,8,0.04016669177084902,All,Subject
+10202 Early Modern History,8,0.04016669177084902,All,Subject
+10101 Prehistory,8,0.04016669177084902,All,Subject
+20707 Agricultural and Food Process Engineering,8,0.04016669177084902,All,Subject
+"20515 Gastroenterology, Metabolism",8,0.04016669177084902,All,Subject
+10105 Egyptology and Ancient Near Eastern Studies,8,0.04016669177084902,All,Subject
+402 Mechanics and Constructive Mechanical Engineering,8,0.04016669177084902,All,Subject
+11305 Criminology,8,0.04016669177084902,All,Subject
+306 Polymer Research,7,0.03514585529949289,All,Subject
+20601 Molecular Neuroscience and Neurogenetics,7,0.03514585529949289,All,Subject
+10103 Ancient History,7,0.03514585529949289,All,Subject
+10401 General and Applied Linguistics,7,0.03514585529949289,All,Subject
+"10603 African, American and Oceania Studies",7,0.03514585529949289,All,Subject
+10303 Theatre and Media Studies,7,0.03514585529949289,All,Subject
+11303 Public Law,7,0.03514585529949289,All,Subject
+40204 Acoustics,7,0.03514585529949289,All,Subject
+30203 Theory and Modelling,7,0.03514585529949289,All,Subject
+"40803 Electrical Energy Generation, Distribution, Application",7,0.03514585529949289,All,Subject
+"11003 Social Psychology, Industrial and Organisational Psychology",7,0.03514585529949289,All,Subject
+"310 Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics",6,0.03012501882813677,All,Subject
+30101 Inorganic Molecular Chemistry,6,0.03012501882813677,All,Subject
+10602 Asian Studies,6,0.03012501882813677,All,Subject
+20106 Developmental Biology,6,0.03012501882813677,All,Subject
+"40903 Operating, Communication and Information Systems",6,0.03012501882813677,All,Subject
+20531 Radiation Oncology and Radiobiology,6,0.03012501882813677,All,Subject
+"30201 Solid State and Surface Chemistry, Material Synthesis",6,0.03012501882813677,All,Subject
+"40705 Human Factors, Ergonomics, Human-Machine Systems",5,0.02510418235678064,All,Subject
+30701 Experimental Condensed Matter Physics,5,0.02510418235678064,All,Subject
+"20711 Animal Husbandry, Breeding and Hygiene",5,0.02510418235678064,All,Subject
+20204 Plant Physiology,5,0.02510418235678064,All,Subject
+10402 Individual Linguistics,5,0.02510418235678064,All,Subject
+"20714 Basic Research on Pathogenesis, Diagnostics and Therapy and Clinical Veterinary Medicine",5,0.02510418235678064,All,Subject
+20304 Sensory and Behavioural Biology,5,0.02510418235678064,All,Subject
+"10604 Islamic Studies, Arabian Studies, Semitic Studies",5,0.02510418235678064,All,Subject
+20521 Gynaecology and Obstetrics,5,0.02510418235678064,All,Subject
+20505 Nutritional Sciences,5,0.02510418235678064,All,Subject
+"41006 Geotechnics, Hydraulic Engineering",5,0.02510418235678064,All,Subject
+"11004 Differential Psychology, Clinical Psychology, Medical Psychology, Methodology",5,0.02510418235678064,All,Subject
+"20517 Endocrinology, Diabetology",5,0.02510418235678064,All,Subject
+30501 Biological and Biomimetic Chemistry,5,0.02510418235678064,All,Subject
+"20513 Pneumology, Clinical Infectiology Intensive Care Medicine",5,0.02510418235678064,All,Subject
+10901 General Education and History of Education,4,0.02008334588542451,All,Subject
+20206 Plant Cell and Developmental Biology,4,0.02008334588542451,All,Subject
+40401 Energy Process Engineering,4,0.02008334588542451,All,Subject
+30302 General Theoretical Chemistry,4,0.02008334588542451,All,Subject
+"20512 Cardiology, Angiology",4,0.02008334588542451,All,Subject
+"41004 Sructural Engineering, Building Informatics, Construction Operation",4,0.02008334588542451,All,Subject
+10702 Roman Catholic Theology,4,0.02008334588542451,All,Subject
+"20608 Clinical Neurosciences I - Neurology, Neurosurgery",4,0.02008334588542451,All,Subject
+"20518 Rheumatology, Clinical Immunology, Allergology",4,0.02008334588542451,All,Subject
+11002 Developmental and Educational Psychology,4,0.02008334588542451,All,Subject
+40301 Chemical and Thermal Process Engineering,4,0.02008334588542451,All,Subject
+20611 Clinical Neurosciences III - Ophthalmology,4,0.02008334588542451,All,Subject
+20703 Plant Nutrition,4,0.02008334588542451,All,Subject
+20507 Clinical Chemistry and Pathobiochemistry,4,0.02008334588542451,All,Subject
+"30401 Analytical Chemistry, Method Development (Chemistry)",4,0.02008334588542451,All,Subject
+31201 Mathematics,4,0.02008334588542451,All,Subject
+"20528 Dentistry, Oral Surgery",3,0.01506250941406838,All,Subject
+"11001 General, Biological and Mathematical Psychology",3,0.01506250941406838,All,Subject
+20602 Cellular Neuroscience,3,0.01506250941406838,All,Subject
+40503 Composite Materials,3,0.01506250941406838,All,Subject
+20203 Inter-organismic Interactions of Plants,3,0.01506250941406838,All,Subject
+30502 Food Chemistry,3,0.01506250941406838,All,Subject
+10801 History of Philosophy,3,0.01506250941406838,All,Subject
+40603 Microstructural Mechanical Properties of Materials,3,0.01506250941406838,All,Subject
+10701 Protestant Theology,3,0.01506250941406838,All,Subject
+11201 Economic Theory,3,0.01506250941406838,All,Subject
+20603 Developmental Neurobiology,3,0.01506250941406838,All,Subject
+20524 Gerontology and Geriatric Medicine,3,0.01506250941406838,All,Subject
+40302 Technical Chemistry,3,0.01506250941406838,All,Subject
+"40802 Communication, High-Frequency and Network Technology, Theoretical Electrical Engineering",3,0.01506250941406838,All,Subject
+11101 Sociological Theory,3,0.01506250941406838,All,Subject
+11304 Criminal Law and Law of Criminal Procedure,2,0.01004167294271226,All,Subject
+401 Production Technology,2,0.01004167294271226,All,Subject
+20607 Molecular Neurology,2,0.01004167294271226,All,Subject
+40502 Sintered Metallic and Ceramic Materials,2,0.01004167294271226,All,Subject
+20609 Biological Psychiatry,2,0.01004167294271226,All,Subject
+20527 Traumatology and Orthopaedics,2,0.01004167294271226,All,Subject
+20522 Reproductive Medicine/Biology,2,0.01004167294271226,All,Subject
+20526 Cardiothoracic Surgery,2,0.01004167294271226,All,Subject
+40304 Biological Process Engineering,2,0.01004167294271226,All,Subject
+20519 Dermatology,2,0.01004167294271226,All,Subject
+20605 Comparative Neurobiology,2,0.01004167294271226,All,Subject
+10503 European and American Literature,2,0.01004167294271226,All,Subject
+20523 Urology,2,0.01004167294271226,All,Subject
+40605 Biomaterials,2,0.01004167294271226,All,Subject
+"40501 Metallurgical and Thermal Processes, Thermomechanical Treatment of Materials",2,0.01004167294271226,All,Subject
+30601 Preparatory and Physical Chemistry of Polymers,2,0.01004167294271226,All,Subject
+10504 General and Comparative Literature and Cultural Studies,2,0.01004167294271226,All,Subject
+30603 Polymer Materials,2,0.01004167294271226,All,Subject
+"40701 Automation, Control Systems, Robotics, Mechatronics",2,0.01004167294271226,All,Subject
+40601 Thermodynamics and Kinetics of Materials,2,0.01004167294271226,All,Subject
+"40105 Production Automation, Factory Operation, Operations Manangement",1,0.005020836471356128,All,Subject
+20516 Nephrology,1,0.005020836471356128,All,Subject
+"20610 Clinical Neurosciences II - Psychotherapy, Psychosomatic Medicine",1,0.005020836471356128,All,Subject
+10502 Modern German Literature,1,0.005020836471356128,All,Subject
+40602 Synthesis and Properties of Functional Materials,1,0.005020836471356128,All,Subject
+40505 Coating and Surface Technology,1,0.005020836471356128,All,Subject
+10102 Classical Philology,1,0.005020836471356128,All,Subject
+11302 Private Law,1,0.005020836471356128,All,Subject
+40702 Measurement Systems,1,0.005020836471356128,All,Subject
+40604 Structuring and Functionalisation,1,0.005020836471356128,All,Subject
+30602 Experimental and Theoretical Physics of Polymers,1,0.005020836471356128,All,Subject
+10501 Medieval German Literature,1,0.005020836471356128,All,Subject
+"40801 Electronic Semiconductors, Components, Circuits, Systems",1,0.005020836471356128,All,Subject
+"31001 Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics",1,0.005020836471356128,All,Subject
+40402 Technical Thermodynamics,1,0.005020836471356128,All,Subject
+40901 Theoretical Computer Science,1,0.005020836471356128,All,Subject
+30702 Theoretical Condensed Matter Physics,1,0.005020836471356128,All,Subject
+40202 Mechanics,1,0.005020836471356128,All,Subject
+DFG,19917,100.0,All,Subject Scheme
+REST,760,35.44776119402985,All,API Type
+OAI-PMH,384,17.91044776119403,All,API Type
+other,320,14.92537313432836,All,API Type
+FTP,320,14.92537313432836,All,API Type
+SWORD,133,6.203358208955223,All,API Type
+NetCDF,86,4.011194029850746,All,API Type
+OpenDAP,50,2.332089552238806,All,API Type
+SOAP,49,2.28544776119403,All,API Type
+SPARQL,42,1.958955223880597,All,API Type
+Dublin Core,620,25.52490736928777,All,Metadata Standard Name
+DataCite Metadata Schema,458,18.85549608892548,All,Metadata Standard Name
+DDI - Data Documentation Initiative,289,11.89790037052285,All,Metadata Standard Name
+Repository-Developed Metadata Schemas,224,9.221902017291066,All,Metadata Standard Name
+ISO 19115,215,8.851379168382051,All,Metadata Standard Name
+OAI-ORE - Open Archives Initiative Object Reuse and Exchange,160,6.587072869493618,All,Metadata Standard Name
+FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata,102,4.199258954302182,All,Metadata Standard Name
+CF (Climate and Forecast) Metadata Conventions,49,2.017291066282421,All,Metadata Standard Name
+Darwin Core,46,1.893783449979416,All,Metadata Standard Name
+DIF - Directory Interchange Format,45,1.85261424454508,All,Metadata Standard Name
+EML - Ecological Metadata Language,38,1.564429806504734,All,Metadata Standard Name
+DCAT - Data Catalog Vocabulary,34,1.399752984767394,All,Metadata Standard Name
+RDF Data Cube Vocabulary,25,1.029230135858378,All,Metadata Standard Name
+ABCD - Access to Biological Collection Data,20,0.8233841086867023,All,Metadata Standard Name
+other,19,0.7822149032523672,All,Metadata Standard Name
+ISA-Tab,18,0.7410456978180321,All,Metadata Standard Name
+International Virtual Observatory Alliance Technical Specifications,14,0.5763688760806917,All,Metadata Standard Name
+FITS - Flexible Image Transport System,12,0.4940304652120214,All,Metadata Standard Name
+PROV,8,0.3293536434746809,All,Metadata Standard Name
+CIF - Crystallographic Information Framework,7,0.2881844380403458,All,Metadata Standard Name
+MIBBI - Minimum Information for Biological and Biomedical Investigations,6,0.2470152326060107,All,Metadata Standard Name
+SPASE Data Model,5,0.2058460271716756,All,Metadata Standard Name
+SDMX - Statistical Data and Metadata Exchange,5,0.2058460271716756,All,Metadata Standard Name
+CIM - Common Information Model,3,0.1235076163030054,All,Metadata Standard Name
+AVM - Astronomy Visualization Metadata,2,0.08233841086867023,All,Metadata Standard Name
+Genome Metadata,2,0.08233841086867023,All,Metadata Standard Name
+QuDEx - Qualitative Data Exchange Format,1,0.04116920543433512,All,Metadata Standard Name
+CSMD-CCLRC Core Scientific Metadata Model,1,0.04116920543433512,All,Metadata Standard Name
+MIDAS-Heritage,1,0.04116920543433512,All,Metadata Standard Name
+DCC,2429,100.0,All,Metadata Standard Scheme
+yes,1780,57.60517799352751,All,Quality Management
+unknown,1249,40.42071197411003,All,Quality Management
+no,61,1.97411003236246,All,Quality Management
+restricted,2301,68.89221556886228,All,Data Upload Type
+closed,959,28.7125748502994,All,Data Upload Type
+open,80,2.395209580838324,All,Data Upload Type
+registration,975,38.81369426751593,All,Data Upload Restriction
+institutional membership,724,28.82165605095541,All,Data Upload Restriction
+other,644,25.63694267515924,All,Data Upload Restriction
+feeRequired,168,6.687898089171974,All,Data Upload Restriction
+storageLimit,1,0.03980891719745223,All,Data Upload Restriction
+CC,22,2.452619843924192,All,Data Upload License Name
+Creative Commons,21,2.341137123745819,All,Data Upload License Name
+CC0,11,1.226309921962096,All,Data Upload License Name
+Data Submission,10,1.114827201783724,All,Data Upload License Name
+Terms of Use,9,1.003344481605351,All,Data Upload License Name
+Data Submission Guidelines,9,1.003344481605351,All,Data Upload License Name
+Submission policy,9,1.003344481605351,All,Data Upload License Name
+IMEx data submission,8,0.8918617614269788,All,Data Upload License Name
+Submission Guidelines,7,0.7803790412486065,All,Data Upload License Name
+Submission Policy,7,0.7803790412486065,All,Data Upload License Name
+Deposit,6,0.6688963210702341,All,Data Upload License Name
+BCCM Material Deposit Agreement,6,0.6688963210702341,All,Data Upload License Name
+Data Submission Policy,5,0.5574136008918618,All,Data Upload License Name
+Borealis Terms of Use,5,0.5574136008918618,All,Data Upload License Name
+Deposit Data,5,0.5574136008918618,All,Data Upload License Name
+Public Domain,5,0.5574136008918618,All,Data Upload License Name
+Terms of use,5,0.5574136008918618,All,Data Upload License Name
+Copyright,4,0.4459308807134894,All,Data Upload License Name
+Submit,4,0.4459308807134894,All,Data Upload License Name
+Contribute Data,4,0.4459308807134894,All,Data Upload License Name
+Guide to contributors,4,0.4459308807134894,All,Data Upload License Name
+Submission,4,0.4459308807134894,All,Data Upload License Name
+CC-BY,4,0.4459308807134894,All,Data Upload License Name
+Distribution License Agreement,4,0.4459308807134894,All,Data Upload License Name
+Deposit data,4,0.4459308807134894,All,Data Upload License Name
+Submitting Data,3,0.3344481605351171,All,Data Upload License Name
+Submit data,3,0.3344481605351171,All,Data Upload License Name
+TCAG Facilities Terms and Conditions,3,0.3344481605351171,All,Data Upload License Name
+submit data,3,0.3344481605351171,All,Data Upload License Name
+Deposit Agreement,3,0.3344481605351171,All,Data Upload License Name
+"Harvard Dataverse General Terms of Use, User uploads",3,0.3344481605351171,All,Data Upload License Name
+Deposit License,3,0.3344481605351171,All,Data Upload License Name
+Publishing Data,3,0.3344481605351171,All,Data Upload License Name
+Data Upload Disclaimer,3,0.3344481605351171,All,Data Upload License Name
+Data submission,3,0.3344481605351171,All,Data Upload License Name
+Submission guidelines,3,0.3344481605351171,All,Data Upload License Name
+Submission of Data,3,0.3344481605351171,All,Data Upload License Name
+Deposit agreement,3,0.3344481605351171,All,Data Upload License Name
+Harvard Dataverse General Terms of Use,2,0.2229654403567447,All,Data Upload License Name
+Deposition License Agreements,2,0.2229654403567447,All,Data Upload License Name
+Submission Form,2,0.2229654403567447,All,Data Upload License Name
+Uploading Data,2,0.2229654403567447,All,Data Upload License Name
+Depositing Data,2,0.2229654403567447,All,Data Upload License Name
+Deposit Licence Agreement,2,0.2229654403567447,All,Data Upload License Name
+CLARIN Deposition & License Agreement,2,0.2229654403567447,All,Data Upload License Name
+Data Upload,2,0.2229654403567447,All,Data Upload License Name
+Publikationsvertrag,2,0.2229654403567447,All,Data Upload License Name
+Open Data Commons,2,0.2229654403567447,All,Data Upload License Name
+Depositing data,2,0.2229654403567447,All,Data Upload License Name
+User Submission Data Usage License Agreement,2,0.2229654403567447,All,Data Upload License Name
+Submitting data,2,0.2229654403567447,All,Data Upload License Name
+Depositor Agreement,2,0.2229654403567447,All,Data Upload License Name
+How to submit data,2,0.2229654403567447,All,Data Upload License Name
+License Agreement,2,0.2229654403567447,All,Data Upload License Name
+Share Data,2,0.2229654403567447,All,Data Upload License Name
+Data Sharing,2,0.2229654403567447,All,Data Upload License Name
+deposit data,2,0.2229654403567447,All,Data Upload License Name
+Submissions,2,0.2229654403567447,All,Data Upload License Name
+OGL,2,0.2229654403567447,All,Data Upload License Name
+Upload,2,0.2229654403567447,All,Data Upload License Name
+Contributing Data,2,0.2229654403567447,All,Data Upload License Name
+Cell Line Registration Quick-Start Guide,2,0.2229654403567447,All,Data Upload License Name
+Terms and Conditions,2,0.2229654403567447,All,Data Upload License Name
+MIT License,2,0.2229654403567447,All,Data Upload License Name
+How to deposit research data in the University of Guelph Research Data Repositories,2,0.2229654403567447,All,Data Upload License Name
+Terms and conditions,2,0.2229654403567447,All,Data Upload License Name
+How to Contribute Data,2,0.2229654403567447,All,Data Upload License Name
+Política de depósito,2,0.2229654403567447,All,Data Upload License Name
+Deposit Policy,2,0.2229654403567447,All,Data Upload License Name
+Submission Agreement,2,0.2229654403567447,All,Data Upload License Name
+Submission Guide,2,0.2229654403567447,All,Data Upload License Name
+Terms of Deposit,2,0.2229654403567447,All,Data Upload License Name
+Data Submission and Release on EuPathDB Databases,2,0.2229654403567447,All,Data Upload License Name
+DataverseNO Deposit Agreement,2,0.2229654403567447,All,Data Upload License Name
+Data Deposit Agreement,2,0.2229654403567447,All,Data Upload License Name
+Terms of Service,2,0.2229654403567447,All,Data Upload License Name
+Resource Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+How to share data,1,0.1114827201783724,All,Data Upload License Name
+IGB data policy for environmental field data,1,0.1114827201783724,All,Data Upload License Name
+Deposit license - research data,1,0.1114827201783724,All,Data Upload License Name
+Revised Data Submission Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Freedom of Information and Protection of Privacy,1,0.1114827201783724,All,Data Upload License Name
+Nanomaterial characterisation and bioassays data entry templates,1,0.1114827201783724,All,Data Upload License Name
+Deep Blue Data Deposit Policy,1,0.1114827201783724,All,Data Upload License Name
+License for the Publication of Research Data on “TUHH Open Research” of the Hamburg University of Technology (TUHH),1,0.1114827201783724,All,Data Upload License Name
+Submission Terms of Use,1,0.1114827201783724,All,Data Upload License Name
+Data Submission agreement,1,0.1114827201783724,All,Data Upload License Name
+Image Submission Report 6.5,1,0.1114827201783724,All,Data Upload License Name
+GESIS Archive agreement,1,0.1114827201783724,All,Data Upload License Name
+Data Repository: Data Producer Agreement,1,0.1114827201783724,All,Data Upload License Name
+ICAR Data Licence,1,0.1114827201783724,All,Data Upload License Name
+UCT terms of data deposit,1,0.1114827201783724,All,Data Upload License Name
+BioStudies Submissions Overview,1,0.1114827201783724,All,Data Upload License Name
+HydroShare Publication Agreement,1,0.1114827201783724,All,Data Upload License Name
+Legal deposit,1,0.1114827201783724,All,Data Upload License Name
+Submit / Archive data,1,0.1114827201783724,All,Data Upload License Name
+Instructions for depositing data in Tilburg UniversityDataverse,1,0.1114827201783724,All,Data Upload License Name
+Publishing in NDEx,1,0.1114827201783724,All,Data Upload License Name
+Data Access and Licenses,1,0.1114827201783724,All,Data Upload License Name
+Publicar dades a UPCommons,1,0.1114827201783724,All,Data Upload License Name
+Deposit Information,1,0.1114827201783724,All,Data Upload License Name
+DCO Open Access and Data Policies,1,0.1114827201783724,All,Data Upload License Name
+How to submit data to FITBIR,1,0.1114827201783724,All,Data Upload License Name
+Deposition Agreement,1,0.1114827201783724,All,Data Upload License Name
+Request to Submit Data,1,0.1114827201783724,All,Data Upload License Name
+York University Dataverse Deposit Submission Guide,1,0.1114827201783724,All,Data Upload License Name
+Getting your data into LiPD,1,0.1114827201783724,All,Data Upload License Name
+Archiving Data,1,0.1114827201783724,All,Data Upload License Name
+Data are shared openly,1,0.1114827201783724,All,Data Upload License Name
+Depositing Data in uOttawa Dataverse @ Scholars Portal,1,0.1114827201783724,All,Data Upload License Name
+Deposit your Data,1,0.1114827201783724,All,Data Upload License Name
+McMaster Dataverse Depositor Checklist,1,0.1114827201783724,All,Data Upload License Name
+Management Policy,1,0.1114827201783724,All,Data Upload License Name
+Sammlung registrieren,1,0.1114827201783724,All,Data Upload License Name
+Submit a new bacteriome,1,0.1114827201783724,All,Data Upload License Name
+Uploading Data to the Gemma Website,1,0.1114827201783724,All,Data Upload License Name
+Submit Studies,1,0.1114827201783724,All,Data Upload License Name
+Submission portal,1,0.1114827201783724,All,Data Upload License Name
+Data contribution,1,0.1114827201783724,All,Data Upload License Name
+data Submission - guidelines,1,0.1114827201783724,All,Data Upload License Name
+"Deposit Agreement, Creative Commons License",1,0.1114827201783724,All,Data Upload License Name
+Policy - Scholars' Mine Deposit License,1,0.1114827201783724,All,Data Upload License Name
+User Guide,1,0.1114827201783724,All,Data Upload License Name
+Repository policies - Submission Policy,1,0.1114827201783724,All,Data Upload License Name
+Guidelines for Depositors,1,0.1114827201783724,All,Data Upload License Name
+Deposit Terms,1,0.1114827201783724,All,Data Upload License Name
+Repository mission and policies,1,0.1114827201783724,All,Data Upload License Name
+Virginia Tech Data Repository: Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+Research Repository deposit license,1,0.1114827201783724,All,Data Upload License Name
+ORDO Depositor Agreement,1,0.1114827201783724,All,Data Upload License Name
+Libra Data Public Deposit License,1,0.1114827201783724,All,Data Upload License Name
+Handleiding voor het Maken van de Submisson Argreement en Order Agreement,1,0.1114827201783724,All,Data Upload License Name
+How to submit proposals,1,0.1114827201783724,All,Data Upload License Name
+REBASE Submit Data,1,0.1114827201783724,All,Data Upload License Name
+Terms of Reference,1,0.1114827201783724,All,Data Upload License Name
+User Manual,1,0.1114827201783724,All,Data Upload License Name
+Terms and conditions of submission,1,0.1114827201783724,All,Data Upload License Name
+Procedures to Guide External Investigator Access to Clinical Trial Data,1,0.1114827201783724,All,Data Upload License Name
+Distribution Licence Agreement,1,0.1114827201783724,All,Data Upload License Name
+Submit Additions to Faces Of Fungi Phyla,1,0.1114827201783724,All,Data Upload License Name
+Data Submission Policy.,1,0.1114827201783724,All,Data Upload License Name
+Publishing data,1,0.1114827201783724,All,Data Upload License Name
+Public Domain Dedication,1,0.1114827201783724,All,Data Upload License Name
+SADB deposition guide,1,0.1114827201783724,All,Data Upload License Name
+Guidance on how to deposit your data or use stored data,1,0.1114827201783724,All,Data Upload License Name
+Policies and Procedures,1,0.1114827201783724,All,Data Upload License Name
+eBird Media licensing agreement,1,0.1114827201783724,All,Data Upload License Name
+How to submit,1,0.1114827201783724,All,Data Upload License Name
+How to upload datasets and publications,1,0.1114827201783724,All,Data Upload License Name
+Copyright and Citation Policy of Morph·D·Base,1,0.1114827201783724,All,Data Upload License Name
+DataSTORRE Deposit Guide,1,0.1114827201783724,All,Data Upload License Name
+Illustrations,1,0.1114827201783724,All,Data Upload License Name
+ILLINOIS DATA BANK DEPOSIT AGREEMENT,1,0.1114827201783724,All,Data Upload License Name
+Information about depositing data,1,0.1114827201783724,All,Data Upload License Name
+Deposition License Agreement,1,0.1114827201783724,All,Data Upload License Name
+How to guide for submitting Project Proposals,1,0.1114827201783724,All,Data Upload License Name
+dbGaP Data Submission Procedures,1,0.1114827201783724,All,Data Upload License Name
+Submission policy and guidelines,1,0.1114827201783724,All,Data Upload License Name
+University of Reading Research Data Archive Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+Data Deposition,1,0.1114827201783724,All,Data Upload License Name
+CITRINE INFORMATICS TERMS OF SERVICE,1,0.1114827201783724,All,Data Upload License Name
+Become SGN Editor,1,0.1114827201783724,All,Data Upload License Name
+Globus data publication user guide,1,0.1114827201783724,All,Data Upload License Name
+OTN Data Policy,1,0.1114827201783724,All,Data Upload License Name
+Submitting data to the Cellular Phenotype database,1,0.1114827201783724,All,Data Upload License Name
+Information for Depositors,1,0.1114827201783724,All,Data Upload License Name
+Data Submission and Reuse Agreement,1,0.1114827201783724,All,Data Upload License Name
+Open government licence,1,0.1114827201783724,All,Data Upload License Name
+Contribute models,1,0.1114827201783724,All,Data Upload License Name
+Submit Your Data to TrichDB,1,0.1114827201783724,All,Data Upload License Name
+Submitting Genomic Data,1,0.1114827201783724,All,Data Upload License Name
+edition | topoi Copyright Guidelines,1,0.1114827201783724,All,Data Upload License Name
+"NIMH Data Archive, Data Submission 
+Agreement",1,0.1114827201783724,All,Data Upload License Name
+How-to guide data sharing,1,0.1114827201783724,All,Data Upload License Name
+How do I get started?,1,0.1114827201783724,All,Data Upload License Name
+Deposition agreement,1,0.1114827201783724,All,Data Upload License Name
+CZO Data Sharing Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Data Submission and  Release on EuPathDB Databases,1,0.1114827201783724,All,Data Upload License Name
+Contribute,1,0.1114827201783724,All,Data Upload License Name
+Creative Commons — Attribution 4.0 International — CC BY 4.0,1,0.1114827201783724,All,Data Upload License Name
+Terms for submitting and using a work,1,0.1114827201783724,All,Data Upload License Name
+Submit a Dataset,1,0.1114827201783724,All,Data Upload License Name
+Guidelines for the publication of open data in Luxembourg,1,0.1114827201783724,All,Data Upload License Name
+TemperateReefBase Data Submission,1,0.1114827201783724,All,Data Upload License Name
+terms and conditions,1,0.1114827201783724,All,Data Upload License Name
+Data Submission on EuPathDB Databases,1,0.1114827201783724,All,Data Upload License Name
+CC-by-3.0,1,0.1114827201783724,All,Data Upload License Name
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International,1,0.1114827201783724,All,Data Upload License Name
+EMPIAR deposition manual,1,0.1114827201783724,All,Data Upload License Name
+Editorial policies,1,0.1114827201783724,All,Data Upload License Name
+Data Deposit Policy,1,0.1114827201783724,All,Data Upload License Name
+Nutzungsregeln,1,0.1114827201783724,All,Data Upload License Name
+RADAR License and User Instructions for Data Providers,1,0.1114827201783724,All,Data Upload License Name
+Data Submission Guidelines for the ProteomeXchange Consortium,1,0.1114827201783724,All,Data Upload License Name
+Deposit contract,1,0.1114827201783724,All,Data Upload License Name
+Plasmid Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+"Creative Commons (CC-BY, CC-SA, CC-NC etc.)",1,0.1114827201783724,All,Data Upload License Name
+Deposit research data,1,0.1114827201783724,All,Data Upload License Name
+OceanSITES Data Providers’ Guide,1,0.1114827201783724,All,Data Upload License Name
+Upload Project,1,0.1114827201783724,All,Data Upload License Name
+Datenaufnahme,1,0.1114827201783724,All,Data Upload License Name
+RDR help guidance,1,0.1114827201783724,All,Data Upload License Name
+Posting rules,1,0.1114827201783724,All,Data Upload License Name
+Research Data Deposit policy,1,0.1114827201783724,All,Data Upload License Name
+UAL Research Data Management Planning Procedure,1,0.1114827201783724,All,Data Upload License Name
+CRC1211 Data Policy,1,0.1114827201783724,All,Data Upload License Name
+How to Deposit Your Data,1,0.1114827201783724,All,Data Upload License Name
+Common dataset licenses,1,0.1114827201783724,All,Data Upload License Name
+Intake document for digital archives,1,0.1114827201783724,All,Data Upload License Name
+FAQ Data Management and Privacy,1,0.1114827201783724,All,Data Upload License Name
+Agreement and licensing,1,0.1114827201783724,All,Data Upload License Name
+User guide Easy Maps v2.0,1,0.1114827201783724,All,Data Upload License Name
+SKCDC Data Sharing Agreement,1,0.1114827201783724,All,Data Upload License Name
+OpenAQ Terms of Use for Data Publishers,1,0.1114827201783724,All,Data Upload License Name
+File Deposit Instructions,1,0.1114827201783724,All,Data Upload License Name
+AURIN Data Release Form,1,0.1114827201783724,All,Data Upload License Name
+Procedures for importing open datasets from the National Research Council of Thailand,1,0.1114827201783724,All,Data Upload License Name
+RADAR4Chem License and User Instructions for Data Providers,1,0.1114827201783724,All,Data Upload License Name
+Upload to ODC,1,0.1114827201783724,All,Data Upload License Name
+Benutzung des Dokumentenservers,1,0.1114827201783724,All,Data Upload License Name
+Submit Model,1,0.1114827201783724,All,Data Upload License Name
+Procedure opname BHIC,1,0.1114827201783724,All,Data Upload License Name
+User Submission Data Usage Licence Agreement,1,0.1114827201783724,All,Data Upload License Name
+LDbase Data Upload User Agreement,1,0.1114827201783724,All,Data Upload License Name
+Contributing to the ontology,1,0.1114827201783724,All,Data Upload License Name
+RADAR4Culture License and User Instructions for Data Providers,1,0.1114827201783724,All,Data Upload License Name
+DANS Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+Supported Licenses,1,0.1114827201783724,All,Data Upload License Name
+Déposer des données dans l’espace Dataverse de l’UQTR,1,0.1114827201783724,All,Data Upload License Name
+BCCM Deposit Policy,1,0.1114827201783724,All,Data Upload License Name
+National Rock and Mineral Fossil Specimen Resource Platform Reservation Service Instructions and Reservation Application Form Download,1,0.1114827201783724,All,Data Upload License Name
+Data deposit licence,1,0.1114827201783724,All,Data Upload License Name
+Depositing Data in Concordia Dataverse,1,0.1114827201783724,All,Data Upload License Name
+Déposer vos données dans la collection de l’INRS de Borealis,1,0.1114827201783724,All,Data Upload License Name
+Déposer des données dans l’espace Dataverse de l’UQAC,1,0.1114827201783724,All,Data Upload License Name
+Directives pour le dépôt dans l’espace Dataverse de l’UQAM,1,0.1114827201783724,All,Data Upload License Name
+MacEwan University Library Dataverse Deposit Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Data we Collect,1,0.1114827201783724,All,Data Upload License Name
+Deposit Guidelines for Memorial University Dataverse,1,0.1114827201783724,All,Data Upload License Name
+Deposit Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Instructivo Autor “Autoarchivo”,1,0.1114827201783724,All,Data Upload License Name
+Acuerdo de publicación de datos de investigación,1,0.1114827201783724,All,Data Upload License Name
+Submit Your Research,1,0.1114827201783724,All,Data Upload License Name
+Licencia y autorización para publicar obras en el Repositorio Institucional UN,1,0.1114827201783724,All,Data Upload License Name
+Termos de uso e licenças,1,0.1114827201783724,All,Data Upload License Name
+Mason Archival Repository Service (MARS) Dataverse Dataset Public Deposit License,1,0.1114827201783724,All,Data Upload License Name
+Deposit rules,1,0.1114827201783724,All,Data Upload License Name
+Come pubblicare nel MOD,1,0.1114827201783724,All,Data Upload License Name
+"Licence Creative Commons, Etalab, Open, Copywrite",1,0.1114827201783724,All,Data Upload License Name
+Data Provider Form,1,0.1114827201783724,All,Data Upload License Name
+Submit a Record,1,0.1114827201783724,All,Data Upload License Name
+Publish & describe resources,1,0.1114827201783724,All,Data Upload License Name
+Dataset specific creative commons licenses,1,0.1114827201783724,All,Data Upload License Name
+Uploading Dataset,1,0.1114827201783724,All,Data Upload License Name
+Querés subir tu datos?,1,0.1114827201783724,All,Data Upload License Name
+Guía para subir documentos en Bulería,1,0.1114827201783724,All,Data Upload License Name
+Dataset Upload Account Request,1,0.1114827201783724,All,Data Upload License Name
+§ 3 Storage and sharing of Research Data,1,0.1114827201783724,All,Data Upload License Name
+Submit your data to OPGC,1,0.1114827201783724,All,Data Upload License Name
+Scholar Submit Terms & Conditions,1,0.1114827201783724,All,Data Upload License Name
+Deposit in RODIN,1,0.1114827201783724,All,Data Upload License Name
+OBIA Data Submission,1,0.1114827201783724,All,Data Upload License Name
+"Conditions d’utilisation de Borealis, le dépôt Dataverse canadien",1,0.1114827201783724,All,Data Upload License Name
+Instruction to authors,1,0.1114827201783724,All,Data Upload License Name
+Collaboration Policy,1,0.1114827201783724,All,Data Upload License Name
+Generic Sequence Submission,1,0.1114827201783724,All,Data Upload License Name
+Data Submission Agreement,1,0.1114827201783724,All,Data Upload License Name
+Depositing Instructions,1,0.1114827201783724,All,Data Upload License Name
+Depósitos en el Repositorio Institucional de la ANID,1,0.1114827201783724,All,Data Upload License Name
+For Authors,1,0.1114827201783724,All,Data Upload License Name
+Instrukcja samodeponowania publikacji w Repozytorium UJK,1,0.1114827201783724,All,Data Upload License Name
+depositing data,1,0.1114827201783724,All,Data Upload License Name
+Derechos de autor,1,0.1114827201783724,All,Data Upload License Name
+Submission of datasets to PIDAR,1,0.1114827201783724,All,Data Upload License Name
+"CC Licenses for Data Upload (CC-0, CC-BY, CC-BY-SA, CC-BY-NC, CC-BY-NC-SA)",1,0.1114827201783724,All,Data Upload License Name
+CC-0 License for Metadata Upload,1,0.1114827201783724,All,Data Upload License Name
+Policy for depositing data in the Repository,1,0.1114827201783724,All,Data Upload License Name
+Creative Commons CC BY  4.0,1,0.1114827201783724,All,Data Upload License Name
+Deposit policies,1,0.1114827201783724,All,Data Upload License Name
+For authors and depositors,1,0.1114827201783724,All,Data Upload License Name
+Nightingale Data Use Agreement,1,0.1114827201783724,All,Data Upload License Name
+Déposer des données dans la collection Borealis de l’Université du Québec à Rimouski,1,0.1114827201783724,All,Data Upload License Name
+Data Contribution,1,0.1114827201783724,All,Data Upload License Name
+Handreichung für Autor:innen,1,0.1114827201783724,All,Data Upload License Name
+Submit Sequences,1,0.1114827201783724,All,Data Upload License Name
+National Health and Disease Human Brain Tissue Repository Donor Informed Consent Form,1,0.1114827201783724,All,Data Upload License Name
+Share,1,0.1114827201783724,All,Data Upload License Name
+Submit Content,1,0.1114827201783724,All,Data Upload License Name
+Submission to ClinVar,1,0.1114827201783724,All,Data Upload License Name
+Submitting Data to Facebase,1,0.1114827201783724,All,Data Upload License Name
+RosDok - Genehmigung zur digitalen Publikation im Internet,1,0.1114827201783724,All,Data Upload License Name
+Policy for submitting a dataset,1,0.1114827201783724,All,Data Upload License Name
+Management Policy of the Institutional Repository “KTISIS”,1,0.1114827201783724,All,Data Upload License Name
+Submit new data,1,0.1114827201783724,All,Data Upload License Name
+Guideline of Registration,1,0.1114827201783724,All,Data Upload License Name
+"Upload DataBase Policies: Lineamientos para la integración y publicación de las colecciones universitarias digitales en el Portal de Datos Abiertos UNAM, Colecciones Universitarias",1,0.1114827201783724,All,Data Upload License Name
+Subir material,1,0.1114827201783724,All,Data Upload License Name
+AmeriFlux Data Contributor Policy,1,0.1114827201783724,All,Data Upload License Name
+Open Access License Agreement,1,0.1114827201783724,All,Data Upload License Name
+Ebola Data Platform Terms of Submission,1,0.1114827201783724,All,Data Upload License Name
+IDDO Terms of Submission,1,0.1114827201783724,All,Data Upload License Name
+Open Data license,1,0.1114827201783724,All,Data Upload License Name
+Nutzungsvereinbarung für data_UMR,1,0.1114827201783724,All,Data Upload License Name
+Terms of contract,1,0.1114827201783724,All,Data Upload License Name
+Daten-Veröffentlichung mit open enventory teilen,1,0.1114827201783724,All,Data Upload License Name
+Terms of Use Smithsonian Figshare for Institutions,1,0.1114827201783724,All,Data Upload License Name
+Publishing Policy,1,0.1114827201783724,All,Data Upload License Name
+How to deposit,1,0.1114827201783724,All,Data Upload License Name
+University of Victoria DataverseLogo for Borealis: The Canadian Dataverse Repository Collection Deposit Guidelines,1,0.1114827201783724,All,Data Upload License Name
+How to Submit Data,1,0.1114827201783724,All,Data Upload License Name
+DaRUS Terms of Use,1,0.1114827201783724,All,Data Upload License Name
+UC San Diego Library Deposit Terms of Agreement,1,0.1114827201783724,All,Data Upload License Name
+Submission of research data from human subjects,1,0.1114827201783724,All,Data Upload License Name
+Data Policy  Marine Data Archive (MDA) version 2.3,1,0.1114827201783724,All,Data Upload License Name
+Data licences,1,0.1114827201783724,All,Data Upload License Name
+Licence Agreement,1,0.1114827201783724,All,Data Upload License Name
+Déposer des données dans l’espace Dataverse de l’Université de Montréal,1,0.1114827201783724,All,Data Upload License Name
+Process for transferring research data to Research Data York,1,0.1114827201783724,All,Data Upload License Name
+Norms of Use,1,0.1114827201783724,All,Data Upload License Name
+Promote Resources Info,1,0.1114827201783724,All,Data Upload License Name
+"Summary of Policies, Deposit",1,0.1114827201783724,All,Data Upload License Name
+Privacy Policy,1,0.1114827201783724,All,Data Upload License Name
+Author Rights,1,0.1114827201783724,All,Data Upload License Name
+DRUM Distribution License,1,0.1114827201783724,All,Data Upload License Name
+How to submit a dataset to Kinsources,1,0.1114827201783724,All,Data Upload License Name
+Daten-Veröffentlichung teilen,1,0.1114827201783724,All,Data Upload License Name
+NIH COVID-19 Data Warehouse Data Transfer Agreement (“Agreement”),1,0.1114827201783724,All,Data Upload License Name
+Upload data,1,0.1114827201783724,All,Data Upload License Name
+DataverseNO Deposit agreement,1,0.1114827201783724,All,Data Upload License Name
+CC-BY-4.0,1,0.1114827201783724,All,Data Upload License Name
+CC-BY-NC-4.0,1,0.1114827201783724,All,Data Upload License Name
+CC0-1.0,1,0.1114827201783724,All,Data Upload License Name
+get involved,1,0.1114827201783724,All,Data Upload License Name
+Submitting Data to BALSA,1,0.1114827201783724,All,Data Upload License Name
+Policy re: data contributions,1,0.1114827201783724,All,Data Upload License Name
+Step 5: Publishing and Registration,1,0.1114827201783724,All,Data Upload License Name
+AUB ScholarWorks Repository Submission Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Creative Commons licence,1,0.1114827201783724,All,Data Upload License Name
+Etalab,1,0.1114827201783724,All,Data Upload License Name
+Publish the dataset in DiVA,1,0.1114827201783724,All,Data Upload License Name
+Data submission to DRA,1,0.1114827201783724,All,Data Upload License Name
+PubData Agreement Archiving Research Data and PubData Agreement Publication Research Data,1,0.1114827201783724,All,Data Upload License Name
+Deposit instructions,1,0.1114827201783724,All,Data Upload License Name
+deposit or donate your valuable bioresources to RIKEN BRC,1,0.1114827201783724,All,Data Upload License Name
+Depositing animals or reagents at the EXRC,1,0.1114827201783724,All,Data Upload License Name
+Water DAMS Data Management and Best Practices for Submitters and Curators,1,0.1114827201783724,All,Data Upload License Name
+Data Deposit Form,1,0.1114827201783724,All,Data Upload License Name
+Preservation Policy,1,0.1114827201783724,All,Data Upload License Name
+open data licenses,1,0.1114827201783724,All,Data Upload License Name
+Authorisation for depositing documents into the Institutional Repository of the URV,1,0.1114827201783724,All,Data Upload License Name
+Formulario de autorización de depósito,1,0.1114827201783724,All,Data Upload License Name
+Data submission and usage,1,0.1114827201783724,All,Data Upload License Name
+Lizenz und Nutzungshinweise für Datengeberinnen und Datengeber von RADAR4Culture,1,0.1114827201783724,All,Data Upload License Name
+WashU Research Data Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+General policies,1,0.1114827201783724,All,Data Upload License Name
+General Procedure for Data Depositors,1,0.1114827201783724,All,Data Upload License Name
+Legal Uploading,1,0.1114827201783724,All,Data Upload License Name
+CC-BY-NC 4.0,1,0.1114827201783724,All,Data Upload License Name
+SODHA Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+Lincoln University Data@Lincoln Deposit Licence,1,0.1114827201783724,All,Data Upload License Name
+TRR228 Data Policy Agreement,1,0.1114827201783724,All,Data Upload License Name
+README files for Data and Datasets,1,0.1114827201783724,All,Data Upload License Name
+Data publication,1,0.1114827201783724,All,Data Upload License Name
+Custom,1,0.1114827201783724,All,Data Upload License Name
+Upload Guide,1,0.1114827201783724,All,Data Upload License Name
+Terms of Conditions,1,0.1114827201783724,All,Data Upload License Name
+Chesapeake Bay Program Guidance for Data Management,1,0.1114827201783724,All,Data Upload License Name
+FAIRDOM Commons for Systems Biology,1,0.1114827201783724,All,Data Upload License Name
+Acknowledgement and Reference Policy,1,0.1114827201783724,All,Data Upload License Name
+Daten sichern,1,0.1114827201783724,All,Data Upload License Name
+HLSP Contributor Guide,1,0.1114827201783724,All,Data Upload License Name
+Data Submission guidelines,1,0.1114827201783724,All,Data Upload License Name
+Apache License 2.0,1,0.1114827201783724,All,Data Upload License Name
+NCBI taxonomy handbook,1,0.1114827201783724,All,Data Upload License Name
+License,1,0.1114827201783724,All,Data Upload License Name
+Rules of procedure,1,0.1114827201783724,All,Data Upload License Name
+Deposit of material,1,0.1114827201783724,All,Data Upload License Name
+Duomenų deponavimas LiDA Dataverse talpykloje,1,0.1114827201783724,All,Data Upload License Name
+Policies,1,0.1114827201783724,All,Data Upload License Name
+User guides for PHAIDRA,1,0.1114827201783724,All,Data Upload License Name
+Data Deposit Requirements of Selected Science Journals,1,0.1114827201783724,All,Data Upload License Name
+Transfer and License Agreement for the scientific use of the archive materials,1,0.1114827201783724,All,Data Upload License Name
+Transfer and License Agreement for the use of the archive materials under the Creative Commons Attribution 4.0 International Public License (CC BY),1,0.1114827201783724,All,Data Upload License Name
+Disclaimer,1,0.1114827201783724,All,Data Upload License Name
+Guidelines for Depositing Data,1,0.1114827201783724,All,Data Upload License Name
+Clarin Template for Depositor Agreements,1,0.1114827201783724,All,Data Upload License Name
+Depositor-Archivist Agreement DOBES-DAA-V1,1,0.1114827201783724,All,Data Upload License Name
+DOBES Code of Conduct v2,1,0.1114827201783724,All,Data Upload License Name
+Datenübernahmerichtlinien des Leibniz-Instituts für Deutsche Sprache,1,0.1114827201783724,All,Data Upload License Name
+How can I submit my research data?,1,0.1114827201783724,All,Data Upload License Name
+Depositing data into ICPSR,1,0.1114827201783724,All,Data Upload License Name
+Roper Center Transparency and Acquisition Policy,1,0.1114827201783724,All,Data Upload License Name
+Upload and Contribute to tDAR,1,0.1114827201783724,All,Data Upload License Name
+Submitt a Proposal,1,0.1114827201783724,All,Data Upload License Name
+Contribute to the BioGRID,1,0.1114827201783724,All,Data Upload License Name
+Tree of Life Use of Contributions,1,0.1114827201783724,All,Data Upload License Name
+Ways to Contribute to the Tree of Life,1,0.1114827201783724,All,Data Upload License Name
+DUA Compliance,1,0.1114827201783724,All,Data Upload License Name
+Your content contributed to the site,1,0.1114827201783724,All,Data Upload License Name
+Projects and Partners,1,0.1114827201783724,All,Data Upload License Name
+archive policy,1,0.1114827201783724,All,Data Upload License Name
+Terms And Conditions,1,0.1114827201783724,All,Data Upload License Name
+Personal Package Archive eligibility,1,0.1114827201783724,All,Data Upload License Name
+Account Terms,1,0.1114827201783724,All,Data Upload License Name
+Depositing data in the LiDA Dataverse repository,1,0.1114827201783724,All,Data Upload License Name
+Déposer ses données,1,0.1114827201783724,All,Data Upload License Name
+Creative Commons license,1,0.1114827201783724,All,Data Upload License Name
+About ESTs - How to submit data,1,0.1114827201783724,All,Data Upload License Name
+BRENDA input,1,0.1114827201783724,All,Data Upload License Name
+Submit contents,1,0.1114827201783724,All,Data Upload License Name
+University of Cambridge Repository Deposit Licence Agreement,1,0.1114827201783724,All,Data Upload License Name
+General guidelines for Data Submission,1,0.1114827201783724,All,Data Upload License Name
+Guidelines,1,0.1114827201783724,All,Data Upload License Name
+What to contribute,1,0.1114827201783724,All,Data Upload License Name
+Division of Ocean Sciences (OCE) Sample and Data Policy,1,0.1114827201783724,All,Data Upload License Name
+dbSNP VCF Submission Format Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Regolamento   per   l’accesso   ai   dati   distribuiti   dal   Centro Interdipartimentale UniData,1,0.1114827201783724,All,Data Upload License Name
+Data Submission Process,1,0.1114827201783724,All,Data Upload License Name
+Data submit guidelines,1,0.1114827201783724,All,Data Upload License Name
+Contribution and Participation,1,0.1114827201783724,All,Data Upload License Name
+Adding experimental data,1,0.1114827201783724,All,Data Upload License Name
+Direct DIP/IMEx submissions,1,0.1114827201783724,All,Data Upload License Name
+Submit your Data,1,0.1114827201783724,All,Data Upload License Name
+"Store, share, publish and discover research data",1,0.1114827201783724,All,Data Upload License Name
+ALEXA User Manual,1,0.1114827201783724,All,Data Upload License Name
+SWISS-MODEL Input Data,1,0.1114827201783724,All,Data Upload License Name
+Preparing and uploading media,1,0.1114827201783724,All,Data Upload License Name
+Deposit ypur work,1,0.1114827201783724,All,Data Upload License Name
+ISSDA Deposit Data,1,0.1114827201783724,All,Data Upload License Name
+Depositing form,1,0.1114827201783724,All,Data Upload License Name
+CDDIS File Upload Procedures,1,0.1114827201783724,All,Data Upload License Name
+Data Rights & Related Issues,1,0.1114827201783724,All,Data Upload License Name
+Data Serving Guidlines,1,0.1114827201783724,All,Data Upload License Name
+How to Contribute Data to the NASA Exoplanet Archive,1,0.1114827201783724,All,Data Upload License Name
+IOC Oceanographic Data Exchange Policy,1,0.1114827201783724,All,Data Upload License Name
+OneDep,1,0.1114827201783724,All,Data Upload License Name
+Contributing data to MPD,1,0.1114827201783724,All,Data Upload License Name
+Metadata Deposit Conditions,1,0.1114827201783724,All,Data Upload License Name
+deposition guide,1,0.1114827201783724,All,Data Upload License Name
+wwPDB OneDep System,1,0.1114827201783724,All,Data Upload License Name
+contributing data,1,0.1114827201783724,All,Data Upload License Name
+Procedure for Strain and Plasmid Deposits to the Dicty Stock Center,1,0.1114827201783724,All,Data Upload License Name
+Data use statement of WDC-RRE,1,0.1114827201783724,All,Data Upload License Name
+NODC Submission Information Form,1,0.1114827201783724,All,Data Upload License Name
+Data Submission Preparation Guide,1,0.1114827201783724,All,Data Upload License Name
+Guidelines for Contributing Marine Geological and Geophysical Data to the National Centers for Environmental Information (NCEI),1,0.1114827201783724,All,Data Upload License Name
+NSIDC DAAC Data Acceptance Plan,1,0.1114827201783724,All,Data Upload License Name
+Publish your Data,1,0.1114827201783724,All,Data Upload License Name
+input philosophy,1,0.1114827201783724,All,Data Upload License Name
+Contribute data to OBIS,1,0.1114827201783724,All,Data Upload License Name
+Database Legal Protection,1,0.1114827201783724,All,Data Upload License Name
+Author’s Works/Contributions Submission Policy,1,0.1114827201783724,All,Data Upload License Name
+Procedure for submitting new or updated entries to EnvBase,1,0.1114827201783724,All,Data Upload License Name
+Data Submission Guide,1,0.1114827201783724,All,Data Upload License Name
+Submitting data to the NSSDCA,1,0.1114827201783724,All,Data Upload License Name
+General guidelines for submissions,1,0.1114827201783724,All,Data Upload License Name
+Data Publication Guidelines for Contributors,1,0.1114827201783724,All,Data Upload License Name
+Depositing with the University of Oxford Text Archive,1,0.1114827201783724,All,Data Upload License Name
+Data deposit,1,0.1114827201783724,All,Data Upload License Name
+NLM PubChem project data submission policy,1,0.1114827201783724,All,Data Upload License Name
+Uploading data onto the UP Research Data Repository,1,0.1114827201783724,All,Data Upload License Name
+Depositing Data with the Australian Data Archive,1,0.1114827201783724,All,Data Upload License Name
+WMO Global Atmosphere Watch (GAW) Strategic Plan,1,0.1114827201783724,All,Data Upload License Name
+Submission steps,1,0.1114827201783724,All,Data Upload License Name
+Data submission guide,1,0.1114827201783724,All,Data Upload License Name
+WDCGG Contributor Manual,1,0.1114827201783724,All,Data Upload License Name
+Instructions for Authors,1,0.1114827201783724,All,Data Upload License Name
+How to Get Started Contributing Data,1,0.1114827201783724,All,Data Upload License Name
+Depositing Data to the CCDB,1,0.1114827201783724,All,Data Upload License Name
+Data Management for Data Providers,1,0.1114827201783724,All,Data Upload License Name
+Data and Metadata Upload,1,0.1114827201783724,All,Data Upload License Name
+Data publisher agreement,1,0.1114827201783724,All,Data Upload License Name
+Processing and Uploading Data,1,0.1114827201783724,All,Data Upload License Name
+Depositing data to Dryad,1,0.1114827201783724,All,Data Upload License Name
+Publishing your data in the VO,1,0.1114827201783724,All,Data Upload License Name
+Attribution 4.0 International (CC BY 4.0),1,0.1114827201783724,All,Data Upload License Name
+Harvard Dataverse User Uploads,1,0.1114827201783724,All,Data Upload License Name
+ECAD datapolicy,1,0.1114827201783724,All,Data Upload License Name
+DataShare depositor agreement,1,0.1114827201783724,All,Data Upload License Name
+core content policies,1,0.1114827201783724,All,Data Upload License Name
+Data Rights & related issues,1,0.1114827201783724,All,Data Upload License Name
+Submission of Final Reports,1,0.1114827201783724,All,Data Upload License Name
+Depositing,1,0.1114827201783724,All,Data Upload License Name
+Long term preservation concept,1,0.1114827201783724,All,Data Upload License Name
+Depositing Agreement,1,0.1114827201783724,All,Data Upload License Name
+Submission overview guidelines,1,0.1114827201783724,All,Data Upload License Name
+contribute materials,1,0.1114827201783724,All,Data Upload License Name
+Additional Information for Authors,1,0.1114827201783724,All,Data Upload License Name
+Contribute your data,1,0.1114827201783724,All,Data Upload License Name
+Start Deposit,1,0.1114827201783724,All,Data Upload License Name
+"Guide to Social Science Data Preparation and Archiving
+Phase 6: Depositing Data",1,0.1114827201783724,All,Data Upload License Name
+Data Deposit Form - Deposit agreement,1,0.1114827201783724,All,Data Upload License Name
+Submit Data,1,0.1114827201783724,All,Data Upload License Name
+Submitting proposals,1,0.1114827201783724,All,Data Upload License Name
+Data providers agreement,1,0.1114827201783724,All,Data Upload License Name
+Archive Submission Policies,1,0.1114827201783724,All,Data Upload License Name
+OLAC Data Provider,1,0.1114827201783724,All,Data Upload License Name
+Public Domain Dedication (CC Zero),1,0.1114827201783724,All,Data Upload License Name
+Policy for scientific data,1,0.1114827201783724,All,Data Upload License Name
+Authors' Guide,1,0.1114827201783724,All,Data Upload License Name
+Policy and Procedures for Digital Archiving,1,0.1114827201783724,All,Data Upload License Name
+eyeMoviePedia Open Access Charta,1,0.1114827201783724,All,Data Upload License Name
+Convention on Biological Diversity,1,0.1114827201783724,All,Data Upload License Name
+Intellectual property rights and disclaimers,1,0.1114827201783724,All,Data Upload License Name
+International Nucleotide Sequence Databases Policies,1,0.1114827201783724,All,Data Upload License Name
+submitting content,1,0.1114827201783724,All,Data Upload License Name
+Annotations guidelines,1,0.1114827201783724,All,Data Upload License Name
+Code of Conduct,1,0.1114827201783724,All,Data Upload License Name
+Sample Collection principles,1,0.1114827201783724,All,Data Upload License Name
+Data Acquisition & Use,1,0.1114827201783724,All,Data Upload License Name
+NGDC Digital Data Deposit Application,1,0.1114827201783724,All,Data Upload License Name
+submission guides,1,0.1114827201783724,All,Data Upload License Name
+Deposit a Structure in the CSD,1,0.1114827201783724,All,Data Upload License Name
+MPC submission information,1,0.1114827201783724,All,Data Upload License Name
+How do I Deposit a Single Structure,1,0.1114827201783724,All,Data Upload License Name
+Submit a New Matrix,1,0.1114827201783724,All,Data Upload License Name
+Depositing Services,1,0.1114827201783724,All,Data Upload License Name
+ClinicalTrials.gov Submissions,1,0.1114827201783724,All,Data Upload License Name
+How to deposit your data to the COD,1,0.1114827201783724,All,Data Upload License Name
+DANS licence agreement,1,0.1114827201783724,All,Data Upload License Name
+Dataset + File Management,1,0.1114827201783724,All,Data Upload License Name
+SDR Terms of Deposit,1,0.1114827201783724,All,Data Upload License Name
+Terms of submission,1,0.1114827201783724,All,Data Upload License Name
+NCEI Submission Guidance for Data Providers,1,0.1114827201783724,All,Data Upload License Name
+Creative Commons licenses,1,0.1114827201783724,All,Data Upload License Name
+How to contribute data to INDI,1,0.1114827201783724,All,Data Upload License Name
+EBI Terms of Use,1,0.1114827201783724,All,Data Upload License Name
+NIH Data Sharing Policy,1,0.1114827201783724,All,Data Upload License Name
+Europeana Publishing Guide,1,0.1114827201783724,All,Data Upload License Name
+Publish your collection with Europeana,1,0.1114827201783724,All,Data Upload License Name
+Terms for User Contributions,1,0.1114827201783724,All,Data Upload License Name
+Term of Use,1,0.1114827201783724,All,Data Upload License Name
+IDEALS Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+ORA deposit agreement,1,0.1114827201783724,All,Data Upload License Name
+ORA submission policy,1,0.1114827201783724,All,Data Upload License Name
+Open Data Commons Open Database License,1,0.1114827201783724,All,Data Upload License Name
+IMAS Data Submission Tool,1,0.1114827201783724,All,Data Upload License Name
+Uploading data to DataBank,1,0.1114827201783724,All,Data Upload License Name
+Ingest,1,0.1114827201783724,All,Data Upload License Name
+Creating GLOBE’s Global Variables,1,0.1114827201783724,All,Data Upload License Name
+Submitting data to the eAtlas,1,0.1114827201783724,All,Data Upload License Name
+How to Submit Files to SSDB,1,0.1114827201783724,All,Data Upload License Name
+EarthChem Library Submission Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Submissions and Updates,1,0.1114827201783724,All,Data Upload License Name
+IRB principles,1,0.1114827201783724,All,Data Upload License Name
+Instructions for data contributors,1,0.1114827201783724,All,Data Upload License Name
+Terms of use - Contributed content,1,0.1114827201783724,All,Data Upload License Name
+Deakin Research Online Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+Guidelines for data registration,1,0.1114827201783724,All,Data Upload License Name
+Submit data to the PODB3,1,0.1114827201783724,All,Data Upload License Name
+Data Deposit Terms,1,0.1114827201783724,All,Data Upload License Name
+"Tabular Data, Representation, Storage and Ingest",1,0.1114827201783724,All,Data Upload License Name
+Contributing to the GEOFON data archive,1,0.1114827201783724,All,Data Upload License Name
+GBIF data publisher agreement,1,0.1114827201783724,All,Data Upload License Name
+call for support,1,0.1114827201783724,All,Data Upload License Name
+DRUM Data Collection Policy,1,0.1114827201783724,All,Data Upload License Name
+Submit your data,1,0.1114827201783724,All,Data Upload License Name
+Data Submission and Release on uPathDB Databases,1,0.1114827201783724,All,Data Upload License Name
+Curators/Editors: Your Starting Point,1,0.1114827201783724,All,Data Upload License Name
+HyMeX data and Publication Policy,1,0.1114827201783724,All,Data Upload License Name
+Illinois Water Inventory Program,1,0.1114827201783724,All,Data Upload License Name
+CRAWDAD Data License,1,0.1114827201783724,All,Data Upload License Name
+Research Data Management - Policy,1,0.1114827201783724,All,Data Upload License Name
+"Data Publishing: Data Access Services, Formats, and Metadata",1,0.1114827201783724,All,Data Upload License Name
+Submitting Your Data,1,0.1114827201783724,All,Data Upload License Name
+Non-Exclusive Distribution License,1,0.1114827201783724,All,Data Upload License Name
+DRI Deosit Terms and Conditions,1,0.1114827201783724,All,Data Upload License Name
+CLARIN Deposition License Agreements (DELA),1,0.1114827201783724,All,Data Upload License Name
+Submitting Content terms of license,1,0.1114827201783724,All,Data Upload License Name
+Charte de la Cohorte Gazel,1,0.1114827201783724,All,Data Upload License Name
+NIH Data Sharing Policy.,1,0.1114827201783724,All,Data Upload License Name
+MERMeX Provide Data,1,0.1114827201783724,All,Data Upload License Name
+Publish your marine data,1,0.1114827201783724,All,Data Upload License Name
+Who owns and controls my data?,1,0.1114827201783724,All,Data Upload License Name
+Creative Commons Licenses,1,0.1114827201783724,All,Data Upload License Name
+Guidelines For Data Files,1,0.1114827201783724,All,Data Upload License Name
+UWA Research Repository Guidelines for Submitters,1,0.1114827201783724,All,Data Upload License Name
+Submission of primary genotyping data,1,0.1114827201783724,All,Data Upload License Name
+Confidentiality and Subject Protection,1,0.1114827201783724,All,Data Upload License Name
+Contributor License Agreement,1,0.1114827201783724,All,Data Upload License Name
+Resource Submission Forms,1,0.1114827201783724,All,Data Upload License Name
+Open source licenses,1,0.1114827201783724,All,Data Upload License Name
+Requesting Names,1,0.1114827201783724,All,Data Upload License Name
+Registration,1,0.1114827201783724,All,Data Upload License Name
+NGEE Arctic Online Metadata Editor,1,0.1114827201783724,All,Data Upload License Name
+Research Data Archive - Depositor Agreement,1,0.1114827201783724,All,Data Upload License Name
+User Guide for the Research Data Archive,1,0.1114827201783724,All,Data Upload License Name
+Submitting,1,0.1114827201783724,All,Data Upload License Name
+TR32DB data policy agreement,1,0.1114827201783724,All,Data Upload License Name
+"Upload, Enter and Manage Your Data",1,0.1114827201783724,All,Data Upload License Name
+"How to record, submit and manage your data",1,0.1114827201783724,All,Data Upload License Name
+Contribute with data,1,0.1114827201783724,All,Data Upload License Name
+Data input,1,0.1114827201783724,All,Data Upload License Name
+CEDA Arrivals,1,0.1114827201783724,All,Data Upload License Name
+Data Usage Policy,1,0.1114827201783724,All,Data Upload License Name
+Procedure for becoming an EPN Station,1,0.1114827201783724,All,Data Upload License Name
+How to get involved,1,0.1114827201783724,All,Data Upload License Name
+DOE JGI’s Policy on Microbial Genbank Submissions,1,0.1114827201783724,All,Data Upload License Name
+Guidelines for Developing Manuscripts,1,0.1114827201783724,All,Data Upload License Name
+Submit data to AspGD,1,0.1114827201783724,All,Data Upload License Name
+Rights policy,1,0.1114827201783724,All,Data Upload License Name
+AODN Contributing Data,1,0.1114827201783724,All,Data Upload License Name
+Suggest a dataset,1,0.1114827201783724,All,Data Upload License Name
+Support,1,0.1114827201783724,All,Data Upload License Name
+submit data to VEuPathDB,1,0.1114827201783724,All,Data Upload License Name
+Contributing,1,0.1114827201783724,All,Data Upload License Name
+Rhea at sourceforge,1,0.1114827201783724,All,Data Upload License Name
+submission information,1,0.1114827201783724,All,Data Upload License Name
+Contributing data,1,0.1114827201783724,All,Data Upload License Name
+Collections Development Policy,1,0.1114827201783724,All,Data Upload License Name
+Quick Guide,1,0.1114827201783724,All,Data Upload License Name
+Sharing a dataset with the ALA,1,0.1114827201783724,All,Data Upload License Name
+submissions to BOLD,1,0.1114827201783724,All,Data Upload License Name
+Access Policies - Private Data,1,0.1114827201783724,All,Data Upload License Name
+Submission of external antibodies to be included in the Protein Atlas,1,0.1114827201783724,All,Data Upload License Name
+Reporting by consumers,1,0.1114827201783724,All,Data Upload License Name
+Contribute to the Data Portal,1,0.1114827201783724,All,Data Upload License Name
+YRC PDR Upload,1,0.1114827201783724,All,Data Upload License Name
+Submit Datasets,1,0.1114827201783724,All,Data Upload License Name
+Intellectual Property Guidelines for the TRY Initiative,1,0.1114827201783724,All,Data Upload License Name
+ICPSR deposit data,1,0.1114827201783724,All,Data Upload License Name
+ISPS Data Archive Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+NIMH Data Archive Data Submission Agreement,1,0.1114827201783724,All,Data Upload License Name
+7-step-guide to data publication,1,0.1114827201783724,All,Data Upload License Name
+Agreements and Terms,1,0.1114827201783724,All,Data Upload License Name
+Submitting Data to PMN,1,0.1114827201783724,All,Data Upload License Name
+How to participate,1,0.1114827201783724,All,Data Upload License Name
+Statement of Responsibilities,1,0.1114827201783724,All,Data Upload License Name
+Contributor Licenses,1,0.1114827201783724,All,Data Upload License Name
+Submitting Sequences to dbGSS,1,0.1114827201783724,All,Data Upload License Name
+How to submit data to NCBI,1,0.1114827201783724,All,Data Upload License Name
+submission to genbank,1,0.1114827201783724,All,Data Upload License Name
+"Steps for dbGaP Study Registration, Submission, and release of Data",1,0.1114827201783724,All,Data Upload License Name
+Contribute data,1,0.1114827201783724,All,Data Upload License Name
+EC guidelines,1,0.1114827201783724,All,Data Upload License Name
+Submission Tool,1,0.1114827201783724,All,Data Upload License Name
+Public domain,1,0.1114827201783724,All,Data Upload License Name
+donate,1,0.1114827201783724,All,Data Upload License Name
+Donation Policy,1,0.1114827201783724,All,Data Upload License Name
+Collaborate,1,0.1114827201783724,All,Data Upload License Name
+wwPDB deposition information,1,0.1114827201783724,All,Data Upload License Name
+License & Copyright,1,0.1114827201783724,All,Data Upload License Name
+Submission Requirements,1,0.1114827201783724,All,Data Upload License Name
+iDigBio Terms of Use Policy,1,0.1114827201783724,All,Data Upload License Name
+Protocol for data deposition and storage in NVS,1,0.1114827201783724,All,Data Upload License Name
+submitting data,1,0.1114827201783724,All,Data Upload License Name
+ANZCTR Access Policy,1,0.1114827201783724,All,Data Upload License Name
+Submitting content,1,0.1114827201783724,All,Data Upload License Name
+Self-archiving in ORE,1,0.1114827201783724,All,Data Upload License Name
+Data Repository Policies,1,0.1114827201783724,All,Data Upload License Name
+LSE Research Online deposit agreement,1,0.1114827201783724,All,Data Upload License Name
+Publisher copyright policies & self-archiving,1,0.1114827201783724,All,Data Upload License Name
+Repository's Rights and Responsibilities,1,0.1114827201783724,All,Data Upload License Name
+Deposit licence,1,0.1114827201783724,All,Data Upload License Name
+Contributing to PhysioNet Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Submisson Guidelines,1,0.1114827201783724,All,Data Upload License Name
+Submission form,1,0.1114827201783724,All,Data Upload License Name
+Publishing research data in the data.bris repository,1,0.1114827201783724,All,Data Upload License Name
+Become a Molecule Authority,1,0.1114827201783724,All,Data Upload License Name
+Submission of RNAi phenotype and/or reagent data,1,0.1114827201783724,All,Data Upload License Name
+How to contribute,1,0.1114827201783724,All,Data Upload License Name
+Submitting Influenza Virus Sequences to GenBank,1,0.1114827201783724,All,Data Upload License Name
+Submissions through BankIT,1,0.1114827201783724,All,Data Upload License Name
+Publish Data,1,0.1114827201783724,All,Data Upload License Name
+Data Management Policy,1,0.1114827201783724,All,Data Upload License Name
+DataShop Terms of Use,1,0.1114827201783724,All,Data Upload License Name
+Databrary Access Agreement,1,0.1114827201783724,All,Data Upload License Name
+Guide to Social Science Data Preparation and Archiving,1,0.1114827201783724,All,Data Upload License Name
+NSF Dissemination and Sharing of Research Results,1,0.1114827201783724,All,Data Upload License Name
+Standard and Special Deposit Agreement,1,0.1114827201783724,All,Data Upload License Name
+Fungal Genetics Stock Center Deposit Policies,1,0.1114827201783724,All,Data Upload License Name
+Uploading,1,0.1114827201783724,All,Data Upload License Name
+Quick Guide to Copyright and Licenses for Dataset,1,0.1114827201783724,All,Data Upload License Name
+CSIC License,1,0.1114827201783724,All,Data Upload License Name
+Sharing Data,1,0.1114827201783724,All,Data Upload License Name
+OeAWI Guideline,1,0.1114827201783724,All,Data Upload License Name
+CC,1506,27.25298588490771,All,Data License Name
+Copyrights,1477,26.72819399203764,All,Data License Name
+other,1391,25.17191458559537,All,Data License Name
+Public Domain,399,7.220412595005429,All,Data License Name
+CC0,312,5.646036916395222,All,Data License Name
+ODC,150,2.714440825190011,All,Data License Name
+OGL,90,1.628664495114007,All,Data License Name
+OGLC,79,1.429605501266739,All,Data License Name
+Apache License 2.0,64,1.158161418747738,All,Data License Name
+BSD,53,0.9591024249004706,All,Data License Name
+RL,4,0.07238508867173363,All,Data License Name
+none,1,0.01809627216793341,All,Data License Name
+registration,961,44.32656826568266,All,Data Access Restriction
+other,646,29.79704797047971,All,Data Access Restriction
+feeRequired,361,16.65129151291513,All,Data Access Restriction
+institutional membership,200,9.22509225092251,All,Data Access Restriction
+open,2884,53.45690454124189,All,Data Access Type
+restricted,1719,31.8628359592215,All,Data Access Type
+embargoed,516,9.564411492122336,All,Data Access Type
+closed,276,5.115848007414272,All,Data Access Type
+registration,113,63.48314606741573,All,Database Access Restriction
+other,47,26.40449438202247,All,Database Access Restriction
+feeRequired,18,10.1123595505618,All,Database Access Restriction
+open,3143,94.41273655752478,All,Database Access Type
+restricted,164,4.92640432562331,All,Database Access Type
+closed,22,0.6608591168519075,All,Database Access Type
+other,181,56.91823899371069,All,Certificate
+RatSWD,44,13.83647798742138,All,Certificate
+WDS,39,12.26415094339623,All,Certificate
+CLARIN certificate B,28,8.80503144654088,All,Certificate
+DSA,11,3.459119496855346,All,Certificate
+DINI Certificate,11,3.459119496855346,All,Certificate
+Trusted Digital Repository,2,0.628930817610063,All,Certificate
+DIN 31644,1,0.3144654088050315,All,Certificate
+ISO 16363,1,0.3144654088050315,All,Certificate
+none,1323,44.17362270450752,All,PID System
+DOI,1117,37.29549248747913,All,PID System
+hdl,294,9.81636060100167,All,PID System
+other,129,4.307178631051753,All,PID System
+URN,68,2.270450751252087,All,PID System
+PURL,33,1.101836393989983,All,PID System
+ARK,30,1.001669449081803,All,PID System
+IGSN,1,0.0333889816360601,All,PID System
+ORCID,328,91.87675070028011,All,AID System
+AuthorClaim,10,2.801120448179272,All,AID System
+ISNI,10,2.801120448179272,All,AID System
+ResearcherID,9,2.521008403361344,All,AID System
+USA,92,34.71698113207547,WDS,Institution Country
+AAA,23,8.679245283018867,WDS,Institution Country
+AUS,21,7.924528301886792,WDS,Institution Country
+GBR,20,7.547169811320755,WDS,Institution Country
+CAN,17,6.415094339622642,WDS,Institution Country
+CHN,15,5.660377358490567,WDS,Institution Country
+DEU,12,4.528301886792453,WDS,Institution Country
+FRA,10,3.773584905660377,WDS,Institution Country
+RUS,10,3.773584905660377,WDS,Institution Country
+NLD,8,3.018867924528302,WDS,Institution Country
+JPN,7,2.641509433962264,WDS,Institution Country
+TWN,4,1.509433962264151,WDS,Institution Country
+BEL,4,1.509433962264151,WDS,Institution Country
+SWE,3,1.132075471698113,WDS,Institution Country
+DNK,3,1.132075471698113,WDS,Institution Country
+UKR,3,1.132075471698113,WDS,Institution Country
+IRL,3,1.132075471698113,WDS,Institution Country
+ESP,2,0.7547169811320755,WDS,Institution Country
+CHE,2,0.7547169811320755,WDS,Institution Country
+ZAF,1,0.3773584905660378,WDS,Institution Country
+EEC,1,0.3773584905660378,WDS,Institution Country
+ITA,1,0.3773584905660378,WDS,Institution Country
+NOR,1,0.3773584905660378,WDS,Institution Country
+KOR,1,0.3773584905660378,WDS,Institution Country
+BIH,1,0.3773584905660378,WDS,Institution Country
+eng,93,72.65625,WDS,Repository Language
+zho,11,8.59375,WDS,Repository Language
+rus,7,5.46875,WDS,Repository Language
+fra,5,3.90625,WDS,Repository Language
+jpn,3,2.34375,WDS,Repository Language
+ukr,2,1.5625,WDS,Repository Language
+swe,1,0.78125,WDS,Repository Language
+deu,1,0.78125,WDS,Repository Language
+dan,1,0.78125,WDS,Repository Language
+nld,1,0.78125,WDS,Repository Language
+ita,1,0.78125,WDS,Repository Language
+nno,1,0.78125,WDS,Repository Language
+kor,1,0.78125,WDS,Repository Language
+3 Natural Sciences,77,12.96296296296296,WDS,Subject
+34 Geosciences (including Geography),61,10.26936026936027,WDS,Subject
+313 Atmospheric Science and Oceanography,37,6.228956228956229,WDS,Subject
+315 Geophysics and Geodesy,30,5.05050505050505,WDS,Subject
+32 Physics,29,4.882154882154882,WDS,Subject
+2 Life Sciences,26,4.377104377104377,WDS,Subject
+311 Astrophysics and Astronomy,24,4.040404040404041,WDS,Subject
+31302 Oceanography,21,3.535353535353535,WDS,Subject
+21 Biology,20,3.367003367003367,WDS,Subject
+1 Humanities and Social Sciences,20,3.367003367003367,WDS,Subject
+318 Water Research,16,2.693602693602693,WDS,Subject
+31301 Atmospheric Science,12,2.02020202020202,WDS,Subject
+12 Social and Behavioural Sciences,11,1.851851851851852,WDS,Subject
+4 Engineering Sciences,11,1.851851851851852,WDS,Subject
+111 Social Sciences,10,1.683501683501683,WDS,Subject
+11 Humanities,9,1.515151515151515,WDS,Subject
+314 Geology and Palaeontology,8,1.346801346801347,WDS,Subject
+203 Zoology,8,1.346801346801347,WDS,Subject
+22 Medicine,8,1.346801346801347,WDS,Subject
+317 Geography,8,1.346801346801347,WDS,Subject
+31501 Geophysics,7,1.178451178451178,WDS,Subject
+112 Economics,7,1.178451178451178,WDS,Subject
+"31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy",6,1.01010101010101,WDS,Subject
+201 Basic Biological and Medical Research,6,1.01010101010101,WDS,Subject
+"20303 Animal Ecology, Biodiversity and Ecosystem Research",5,0.8417508417508417,WDS,Subject
+"316 Geochemistry, Mineralogy and Crystallography",5,0.8417508417508417,WDS,Subject
+31 Chemistry,5,0.8417508417508417,WDS,Subject
+102 History,4,0.6734006734006733,WDS,Subject
+"23 Agriculture, Forestry, Horticulture and Veterinary Medicine",4,0.6734006734006733,WDS,Subject
+101 Ancient Cultures,3,0.5050505050505051,WDS,Subject
+301 Molecular Chemistry,3,0.5050505050505051,WDS,Subject
+31702 Human Geography,3,0.5050505050505051,WDS,Subject
+11104 Political Science,3,0.5050505050505051,WDS,Subject
+"31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management",3,0.5050505050505051,WDS,Subject
+202 Plant Sciences,3,0.5050505050505051,WDS,Subject
+31101 Astrophysics and Astronomy,3,0.5050505050505051,WDS,Subject
+205 Medicine,3,0.5050505050505051,WDS,Subject
+"204 Microbiology, Virology and Immunology",3,0.5050505050505051,WDS,Subject
+"44 Computer Science, Electrical and System Engineering",3,0.5050505050505051,WDS,Subject
+109 Education Sciences,2,0.3367003367003367,WDS,Subject
+40902 Software Technology,2,0.3367003367003367,WDS,Subject
+104 Linguistics,2,0.3367003367003367,WDS,Subject
+"10403 Typology, Non-European Languages, Historical Linguistics",2,0.3367003367003367,WDS,Subject
+20107 Bioinformatics and Theoretical Biology,2,0.3367003367003367,WDS,Subject
+"103 Fine Arts, Music, Theatre and Media Studies",2,0.3367003367003367,WDS,Subject
+20104 Structural Biology,2,0.3367003367003367,WDS,Subject
+20202 Plant Ecology and Ecosystem Analysis,2,0.3367003367003367,WDS,Subject
+107 Theology,2,0.3367003367003367,WDS,Subject
+"308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas",2,0.3367003367003367,WDS,Subject
+409 Computer Science,2,0.3367003367003367,WDS,Subject
+"41002 Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning",2,0.3367003367003367,WDS,Subject
+410 Construction Engineering and Architecture,2,0.3367003367003367,WDS,Subject
+20701 Soil Sciences,2,0.3367003367003367,WDS,Subject
+"207 Agriculture, Forestry, Horticulture and Veterinary Medicine",2,0.3367003367003367,WDS,Subject
+11305 Criminology,2,0.3367003367003367,WDS,Subject
+45 Construction Engineering and Architecture,2,0.3367003367003367,WDS,Subject
+113 Jurisprudence,2,0.3367003367003367,WDS,Subject
+"106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies",2,0.3367003367003367,WDS,Subject
+11202 Economic and Social Policy,2,0.3367003367003367,WDS,Subject
+11102 Empirical Social Research,2,0.3367003367003367,WDS,Subject
+20105 General Genetics,1,0.1683501683501683,WDS,Subject
+407 Systems Engineering,1,0.1683501683501683,WDS,Subject
+41 Mechanical and industrial Engineering,1,0.1683501683501683,WDS,Subject
+20103 Cell Biology,1,0.1683501683501683,WDS,Subject
+31401 Geology and Palaeontology,1,0.1683501683501683,WDS,Subject
+10301 Art History,1,0.1683501683501683,WDS,Subject
+"20302 Evolution, Anthropology",1,0.1683501683501683,WDS,Subject
+402 Mechanics and Constructive Mechanical Engineering,1,0.1683501683501683,WDS,Subject
+105 Literary Studies,1,0.1683501683501683,WDS,Subject
+10104 Classical Archaeology,1,0.1683501683501683,WDS,Subject
+20207 Plant Genetics,1,0.1683501683501683,WDS,Subject
+20405 Immunology,1,0.1683501683501683,WDS,Subject
+40204 Acoustics,1,0.1683501683501683,WDS,Subject
+"31601 Geochemistry, Mineralogy and Crystallography",1,0.1683501683501683,WDS,Subject
+"20502 Public Health, Health Services Research, Social Medicine",1,0.1683501683501683,WDS,Subject
+42 Thermal Engineering/Process Engineering,1,0.1683501683501683,WDS,Subject
+"404 Heat Energy Technology, Thermal Machines, Fluid Mechanics",1,0.1683501683501683,WDS,Subject
+10302 Musicology,1,0.1683501683501683,WDS,Subject
+10601 Social and Cultural Anthropology and Ethnology/Folklore,1,0.1683501683501683,WDS,Subject
+10602 Asian Studies,1,0.1683501683501683,WDS,Subject
+20507 Clinical Chemistry and Pathobiochemistry,1,0.1683501683501683,WDS,Subject
+11205 Statistics and Econometrics,1,0.1683501683501683,WDS,Subject
+110 Psychology,1,0.1683501683501683,WDS,Subject
+33 Mathematics,1,0.1683501683501683,WDS,Subject
+"309 Particles, Nuclei and Fields",1,0.1683501683501683,WDS,Subject
+303 Physical and Theoretical Chemistry,1,0.1683501683501683,WDS,Subject
+11204 Business Administration,1,0.1683501683501683,WDS,Subject
+DFG,594,100.0,WDS,Subject Scheme
+REST,21,27.63157894736842,WDS,API Type
+FTP,16,21.05263157894737,WDS,API Type
+OpenDAP,11,14.47368421052632,WDS,API Type
+OAI-PMH,9,11.84210526315789,WDS,API Type
+NetCDF,8,10.52631578947368,WDS,API Type
+other,6,7.894736842105263,WDS,API Type
+SPARQL,2,2.631578947368421,WDS,API Type
+SOAP,2,2.631578947368421,WDS,API Type
+SWORD,1,1.31578947368421,WDS,API Type
+ISO 19115,26,20.3125,WDS,Metadata Standard Name
+Dublin Core,21,16.40625,WDS,Metadata Standard Name
+DataCite Metadata Schema,18,14.0625,WDS,Metadata Standard Name
+DIF - Directory Interchange Format,13,10.15625,WDS,Metadata Standard Name
+Repository-Developed Metadata Schemas,9,7.03125,WDS,Metadata Standard Name
+CF (Climate and Forecast) Metadata Conventions,9,7.03125,WDS,Metadata Standard Name
+DDI - Data Documentation Initiative,8,6.25,WDS,Metadata Standard Name
+FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata,8,6.25,WDS,Metadata Standard Name
+OAI-ORE - Open Archives Initiative Object Reuse and Exchange,3,2.34375,WDS,Metadata Standard Name
+Darwin Core,3,2.34375,WDS,Metadata Standard Name
+DCAT - Data Catalog Vocabulary,2,1.5625,WDS,Metadata Standard Name
+EML - Ecological Metadata Language,2,1.5625,WDS,Metadata Standard Name
+FITS - Flexible Image Transport System,1,0.78125,WDS,Metadata Standard Name
+International Virtual Observatory Alliance Technical Specifications,1,0.78125,WDS,Metadata Standard Name
+RDF Data Cube Vocabulary,1,0.78125,WDS,Metadata Standard Name
+SPASE Data Model,1,0.78125,WDS,Metadata Standard Name
+ABCD - Access to Biological Collection Data,1,0.78125,WDS,Metadata Standard Name
+ISA-Tab,1,0.78125,WDS,Metadata Standard Name
+DCC,128,100.0,WDS,Metadata Standard Scheme
+yes,71,80.68181818181817,WDS,Quality Management
+unknown,17,19.31818181818182,WDS,Quality Management
+restricted,73,78.49462365591397,WDS,Data Upload Type
+closed,17,18.27956989247312,WDS,Data Upload Type
+open,3,3.225806451612903,WDS,Data Upload Type
+registration,37,44.57831325301205,WDS,Data Upload Restriction
+other,27,32.53012048192771,WDS,Data Upload Restriction
+institutional membership,12,14.4578313253012,WDS,Data Upload Restriction
+feeRequired,7,8.433734939759036,WDS,Data Upload Restriction
+Guidelines for Depositors,1,2.222222222222222,WDS,Data Upload License Name
+Deposit of material,1,2.222222222222222,WDS,Data Upload License Name
+Data Rights & Related Issues,1,2.222222222222222,WDS,Data Upload License Name
+Data use statement of WDC-RRE,1,2.222222222222222,WDS,Data Upload License Name
+General guidelines for Data Submission,1,2.222222222222222,WDS,Data Upload License Name
+Guidelines,1,2.222222222222222,WDS,Data Upload License Name
+Data submit guidelines,1,2.222222222222222,WDS,Data Upload License Name
+Contribution and Participation,1,2.222222222222222,WDS,Data Upload License Name
+Terms of use,1,2.222222222222222,WDS,Data Upload License Name
+AODN Contributing Data,1,2.222222222222222,WDS,Data Upload License Name
+Terms of Use,1,2.222222222222222,WDS,Data Upload License Name
+wwPDB deposition information,1,2.222222222222222,WDS,Data Upload License Name
+Submitting Your Data,1,2.222222222222222,WDS,Data Upload License Name
+DRI Deosit Terms and Conditions,1,2.222222222222222,WDS,Data Upload License Name
+OTN Data Policy,1,2.222222222222222,WDS,Data Upload License Name
+Terms and conditions of submission,1,2.222222222222222,WDS,Data Upload License Name
+Data Upload,1,2.222222222222222,WDS,Data Upload License Name
+Submission portal,1,2.222222222222222,WDS,Data Upload License Name
+Deposit,1,2.222222222222222,WDS,Data Upload License Name
+University of Victoria DataverseLogo for Borealis: The Canadian Dataverse Repository Collection Deposit Guidelines,1,2.222222222222222,WDS,Data Upload License Name
+Submission guidelines,1,2.222222222222222,WDS,Data Upload License Name
+CDDIS File Upload Procedures,1,2.222222222222222,WDS,Data Upload License Name
+Depositor-Archivist Agreement DOBES-DAA-V1,1,2.222222222222222,WDS,Data Upload License Name
+How to Get Started Contributing Data,1,2.222222222222222,WDS,Data Upload License Name
+DOBES Code of Conduct v2,1,2.222222222222222,WDS,Data Upload License Name
+Data Management for Data Providers,1,2.222222222222222,WDS,Data Upload License Name
+Data and Metadata Upload,1,2.222222222222222,WDS,Data Upload License Name
+Data publisher agreement,1,2.222222222222222,WDS,Data Upload License Name
+Data Rights & related issues,1,2.222222222222222,WDS,Data Upload License Name
+NSIDC DAAC Data Acceptance Plan,1,2.222222222222222,WDS,Data Upload License Name
+submit data,1,2.222222222222222,WDS,Data Upload License Name
+Data Submission,1,2.222222222222222,WDS,Data Upload License Name
+Depositing Data with the Australian Data Archive,1,2.222222222222222,WDS,Data Upload License Name
+Data Acquisition & Use,1,2.222222222222222,WDS,Data Upload License Name
+NGDC Digital Data Deposit Application,1,2.222222222222222,WDS,Data Upload License Name
+submission guides,1,2.222222222222222,WDS,Data Upload License Name
+Deposit a Structure in the CSD,1,2.222222222222222,WDS,Data Upload License Name
+Deposit data,1,2.222222222222222,WDS,Data Upload License Name
+Deposit Agreement,1,2.222222222222222,WDS,Data Upload License Name
+Deposit Data,1,2.222222222222222,WDS,Data Upload License Name
+Start Deposit,1,2.222222222222222,WDS,Data Upload License Name
+Data Submission Preparation Guide,1,2.222222222222222,WDS,Data Upload License Name
+CC,1,2.222222222222222,WDS,Data Upload License Name
+Upload and Contribute to tDAR,1,2.222222222222222,WDS,Data Upload License Name
+General Procedure for Data Depositors,1,2.222222222222222,WDS,Data Upload License Name
+other,76,45.23809523809524,WDS,Data License Name
+CC,34,20.23809523809524,WDS,Data License Name
+Copyrights,33,19.64285714285714,WDS,Data License Name
+Public Domain,13,7.738095238095238,WDS,Data License Name
+CC0,6,3.571428571428571,WDS,Data License Name
+OGL,3,1.785714285714286,WDS,Data License Name
+ODC,2,1.19047619047619,WDS,Data License Name
+Apache License 2.0,1,0.5952380952380952,WDS,Data License Name
+registration,35,48.61111111111111,WDS,Data Access Restriction
+other,19,26.38888888888889,WDS,Data Access Restriction
+feeRequired,14,19.44444444444445,WDS,Data Access Restriction
+institutional membership,4,5.555555555555555,WDS,Data Access Restriction
+open,79,49.06832298136646,WDS,Data Access Type
+restricted,58,36.02484472049689,WDS,Data Access Type
+embargoed,15,9.316770186335404,WDS,Data Access Type
+closed,9,5.590062111801243,WDS,Data Access Type
+other,1,50.0,WDS,Database Access Restriction
+registration,1,50.0,WDS,Database Access Restriction
+open,92,98.9247311827957,WDS,Database Access Type
+restricted,1,1.075268817204301,WDS,Database Access Type
+other,50,57.47126436781609,WDS,Certificate
+WDS,35,40.22988505747126,WDS,Certificate
+CLARIN certificate B,1,1.149425287356322,WDS,Certificate
+Trusted Digital Repository,1,1.149425287356322,WDS,Certificate
+DOI,64,68.81720430107528,WDS,PID System
+none,23,24.73118279569892,WDS,PID System
+hdl,3,3.225806451612903,WDS,PID System
+ARK,2,2.150537634408602,WDS,PID System
+other,1,1.075268817204301,WDS,PID System
+ORCID,8,100.0,WDS,AID System
